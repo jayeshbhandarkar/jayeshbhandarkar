@@ -5,7 +5,8 @@
 
 <h3 align="left">Work:</h3>
 - 👨‍🎓 I’m currently Pursuing a BTech Degree in Information Technology <br>
-- 📫 How to reach me jayeshbhandarkar2003@gmail.com
+- 📫 How to reach me 
+      jayeshbhandarkar2003@gmail.com
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/https://twitter.com/its_jayesh_777?t=ddjcapw0rcfmxujawsbhcg&s=08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/its_jayesh_777?t=ddjcapw0rcfmxujawsbhcg&s=08" height="30" width="40" /></a>
