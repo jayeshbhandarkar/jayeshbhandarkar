@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jayesh Bhandarkar</h1>
-<h3 align="center">An Ambitious Student Pursuing a Bachelor's Degree in Information Technology</h3>
-<h3 align="center">I thrive on continuous learning and have an insatiable appetite for acquiring new knowledge and skills</h3>
+<h3 align="center">A Passionate IT Engineering Student, thrive on continuous learning and have an insatiable appetite for acquiring new knowledge and skills</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayeshbhandarkar&label=Profile%20views&color=0e75b6&style=flat" alt="jayeshbhandarkar" /> </p>
 
+<h3 align="left">Work:</h3>
+- 👨‍🎓 I’m currently Pursuing a BTech Degree in Information Technology
+- 📫 How to reach me **jayeshbhandarkar2003@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/https://twitter.com/its_jayesh_777?t=ddjcapw0rcfmxujawsbhcg&s=08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/its_jayesh_777?t=ddjcapw0rcfmxujawsbhcg&s=08" height="30" width="40" /></a>
