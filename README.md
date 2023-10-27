@@ -6,7 +6,7 @@
 <h3 align="left">👨🏻‍💻 Work:</h3>
 - 👨‍🎓 I’m currently Pursuing a BTech Degree in Information Technology <br>
 - 💬 Ask me about: Python, HTML, CSS, Php, Javascript <br>
-- 📫 How to reach me: <a href="bhandarkarjayesh721@gmail.com"></a>
+- 📫 How to reach me: bhandarkarjayesh721@gmail.com
 <br>
 <h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
