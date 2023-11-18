@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jayesh Bhandarkar</h1>
 <h3 align="center">A Passionate IT Engineering Student , thrive on continuous learning and have an insatiable appetite for acquiring new knowledge and skills</h3>
-<img align="right" width=400 alt="coading" src="./sample.png">
+<img align="right" width=300 alt="coading" src="./sample.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayeshbhandarkar&label=Profile%20views&color=0e75b6&style=flat" alt="jayeshbhandarkar" /> </p>
 
 <h3 align="left">👨🏻‍💻 Work:</h3>
-- 👨‍🎓 I’m currently Pursuing a BTech Degree in Information Technology <br>
+- 👨‍🎓 I’m currently Pursuing a BTech in Information Technology <br>
 - 💬 Ask me about: Python, HTML, CSS, Php, Javascript <br>
 - 📫 How to reach me: bhandarkarjayesh721@gmail.com
 <br>
