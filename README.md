@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jayesh Bhandarkar</h1>
 <h3 align="center">A Passionate IT Engineering Student , thrive on continuous learning and have an insatiable appetite for acquiring new knowledge and skills</h3>
-<img align="right" width=300 alt="coading" src="./sample.gif">
+<img align="right" width=400 alt="coading" src="./sample.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayeshbhandarkar&label=Profile%20views&color=0e75b6&style=flat" alt="jayeshbhandarkar" /> </p>
 
