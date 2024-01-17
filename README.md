@@ -42,11 +42,11 @@
 
 # 📊 GitHub Stats:
 <div style="text-align: left;">
-  ![](https://github-readme-stats.vercel.app/api?username=jayeshbhandarkar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=jayeshbhandarkar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 </div>
 
 <div style="text-align: right;">
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=jayeshbhandarkar&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=jayeshbhandarkar&theme=dark&hide_border=false)<br/>
 </div>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jayeshbhandarkar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
