@@ -21,7 +21,7 @@
     
  👨‍🎓 I’m currently Pursuing a **BTech in Information Technology** <br>
     
- 🌱 I’m currently learning : **Data Science** <br>
+ 🌱 I’m currently learning : **Data Science, Machine Learning** <br>
  
  💬 Ask me about : **Python, C++, HTML, CSS, Php, Javascript** <br>
  
