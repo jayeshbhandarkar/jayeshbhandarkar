@@ -11,10 +11,18 @@
 
 <img align="right" width=320 alt="coading" src="./sample.gif">
 
-<h3 align="left">👨🏻‍💻 Work:</h3>
+<!--<h3 align="left">👨🏻‍💻 Work:</h3>
 - 👨‍🎓 I’m currently Pursuing a BTech in Information Technology <br>
 - 💬 Ask me about : Python, HTML, CSS, Php, Javascript <br>
-- 📫 How to reach me :  <a href="mailto: bhandarkarjayesh721@gmail.com">bhandarkarjayesh721@gmail.com</a>
+- 📫 How to reach me :  <a href="mailto: bhandarkarjayesh721@gmail.com">bhandarkarjayesh721@gmail.com</a>-->
+
+<h2 align="center">👨🏻‍💻 Work 👨🏻‍💻</h2>
+<div align="center">
+ 👨‍🎓 I’m currently Pursuing a **BTech in Information Technology**
+ 🌱 I’m currently learning **Data Science**
+ 💬 Ask me about **Python, C++, HTML, CSS, Php, Javascript**
+ 📫 How to reach me : **<a href="mailto: bhandarkarjayesh721@gmail.com">bhandarkarjayesh721@gmail.com</a>**
+</div>
 <br>
 <h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
