@@ -10,12 +10,6 @@
 <hr/>
 
 <img align="right" width=320 alt="coading" src="./sample.gif">
-
-<!--<h3 align="left">👨🏻‍💻 Work:</h3>
-- 👨‍🎓 I’m currently Pursuing a BTech in Information Technology <br>
-- 💬 Ask me about : Python, HTML, CSS, Php, Javascript <br>
-- 📫 How to reach me :  <a href="mailto: bhandarkarjayesh721@gmail.com">bhandarkarjayesh721@gmail.com</a>-->
-
 <h2 align="left">👨🏻‍💻 Work 👨🏻‍💻</h2>
 <div align="left">
     
@@ -28,6 +22,7 @@
  - 📫 How to reach me : **<a href="mailto: bhandarkarjayesh721@gmail.com">bhandarkarjayesh721@gmail.com</a>** <br>
 </div>
 <br>
+<hr/>
 <h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/jayesh-bhandarkar-66499a236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jayesh-bhandarkar-66499a236" height="30" width="40" /></a>
