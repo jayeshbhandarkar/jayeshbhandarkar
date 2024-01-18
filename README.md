@@ -9,9 +9,9 @@
 <h3 align="center"><i>A Passionate IT Engineering Student , thrive on continuous learning and have an insatiable appetite for acquiring new knowledge and skills</i></h3>
 <hr/>
 
-<!--<img align="right" width=320 alt="coading" src="./sample.gif">-->
-<h2 align="center">👨🏻‍💻 Work 👨🏻‍💻</h2>
-<div align="center">
+<img align="right" width=300 alt="coading" src="./sample.gif">
+<h2 align="left">👨🏻‍💻 Work 👨🏻‍💻</h2>
+<div align="left">
     
  - 👨‍🎓 I’m currently Pursuing a **BTech in Information Technology** <br>
     
