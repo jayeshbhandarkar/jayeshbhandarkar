@@ -19,13 +19,13 @@
 <h2 align="left">👨🏻‍💻 Work 👨🏻‍💻</h2>
 <div align="left">
     
- 👨‍🎓 I’m currently Pursuing a **BTech in Information Technology** <br>
+ - 👨‍🎓 I’m currently Pursuing a **BTech in Information Technology** <br>
     
- 🌱 I’m currently learning : **Data Science, Machine Learning** <br>
+ - 🌱 I’m currently learning : **Data Science, Machine Learning** <br>
  
- 💬 Ask me about : **Python, C++, HTML, CSS, Php, Javascript** <br>
+ - 💬 Ask me about : **Python, C++, HTML, CSS, Php, Javascript** <br>
  
- 📫 How to reach me : **<a href="mailto: bhandarkarjayesh721@gmail.com">bhandarkarjayesh721@gmail.com</a>** <br>
+ - 📫 How to reach me : **<a href="mailto: bhandarkarjayesh721@gmail.com">bhandarkarjayesh721@gmail.com</a>** <br>
 </div>
 <br>
 <h3 align="left">🔗 Connect with me:</h3>
