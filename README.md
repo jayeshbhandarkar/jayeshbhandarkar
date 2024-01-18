@@ -21,9 +21,9 @@
     
  👨‍🎓 I’m currently Pursuing a **BTech in Information Technology** <br>
     
- 🌱 I’m currently learning **Data Science** <br>
+ 🌱 I’m currently learning : **Data Science** <br>
  
- 💬 Ask me about **Python, C++, HTML, CSS, Php, Javascript** <br>
+ 💬 Ask me about : **Python, C++, HTML, CSS, Php, Javascript** <br>
  
  📫 How to reach me : **<a href="mailto: bhandarkarjayesh721@gmail.com">bhandarkarjayesh721@gmail.com</a>** <br>
 </div>
