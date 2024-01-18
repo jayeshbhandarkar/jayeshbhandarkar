@@ -18,6 +18,7 @@
 
 <h2 align="center">👨🏻‍💻 Work 👨🏻‍💻</h2>
 <div align="center">
+    
  👨‍🎓 I’m currently Pursuing a **BTech in Information Technology** <br>
     
  🌱 I’m currently learning **Data Science** <br>
