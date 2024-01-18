@@ -9,17 +9,17 @@
 <h3 align="center"><i>A Passionate IT Engineering Student , thrive on continuous learning and have an insatiable appetite for acquiring new knowledge and skills</i></h3>
 <hr/>
 
-<img align="right" width=300 alt="coading" src="./sample.gif">
+<img align="right" width=320 alt="coading" src="./sample.gif">
 <h2 align="left">👨🏻‍💻 Work 👨🏻‍💻</h2>
 <div align="left">
     
- - 👨‍🎓 I’m currently Pursuing a **BTech in Information Technology** <br>
+- 👨‍🎓 I’m currently Pursuing a **BTech in Information Technology** <br>
     
- - 🌱 I’m currently learning : **Data Science, Machine Learning** <br>
+- 🌱 I’m currently learning : **Data Science, Machine Learning** <br>
  
- - 💬 Ask me about : **Python, C++, HTML, CSS, Php, Javascript** <br>
+- 💬 Ask me about : **Python, C++, HTML, CSS, Php, Javascript** <br>
  
- - 📫 How to reach me : **<a href="mailto: bhandarkarjayesh721@gmail.com">bhandarkarjayesh721@gmail.com</a>** <br>
+- 📫 How to reach me : **<a href="mailto: bhandarkarjayesh721@gmail.com">bhandarkarjayesh721@gmail.com</a>** <br>
 </div>
 <br>
 <hr/>
