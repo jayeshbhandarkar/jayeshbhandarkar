@@ -44,6 +44,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,github,cpp,php,figma,vscode" /><br/>
     <img src="https://skillicons.dev/icons?i=python,javascript,java,c,mysql,androidstudio,flask,ps" /><br/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" /><br/>
 </div>
 <br/>
 <hr/>
