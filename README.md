@@ -32,7 +32,7 @@
     <<a href="https://linkedin.com/in/https://www.linkedin.com/in/jayesh-bhandarkar-66499a236" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" />&nbsp;
     <a href="https://twitter.com/https://twitter.com/its_jayesh_777?t=ddjcapw0rcfmxujawsbhcg&s=08" target="blank"><img src="https://skillicons.dev/icons?i=twitter" />&nbsp;
     <a href="https://instagram.com/_its_jayesh_92_" target="blank"><img src="https://skillicons.dev/icons?i=instagram" />&nbsp;
-    <a href="https://fb.com/https://www.facebook.com/jayesh.bhandarkar.92?mibextid=zbwkwl" target="blank"><img src="https://skillicons.dev/icons?i=facebook" />
+    <!--<a href="https://fb.com/https://www.facebook.com/jayesh.bhandarkar.92?mibextid=zbwkwl" target="blank"><img src="https://skillicons.dev/icons?i=facebook" />-->
 </div>
 <hr/>
 
