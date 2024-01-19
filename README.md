@@ -44,7 +44,7 @@
 <br/>
 <hr/>
 
-<h3 align="center">⚡ Github Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20px"></h3>
+<h3 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40px"> Github Stats ⚡</h3>
 <br>
 <div align=center>
     <p><img width=350 src="https://github-readme-stats.vercel.app/api/top-langs?username=jayeshbhandarkar&show_icons=true&theme=react&border_radius=10&locale=en&layout=compact" alt="jayeshbhandarkar" /></p>
