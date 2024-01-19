@@ -39,8 +39,10 @@
 <h3 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h3>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,cpp,jupyternotebook,php" /><br>
-    <img src="https://skillicons.dev/icons?i=python,javascript,c,java,figma,mysql,canva,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,cpp,jupyternotebook,php" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/jupyter.svg" alt="Jupyter Notebook" /><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,c,java,figma,mysql,canva,flask" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/canva.svg" alt="Canva" />" alt="Canva" /><br>
 </div>
 <br/>
 <hr/>
