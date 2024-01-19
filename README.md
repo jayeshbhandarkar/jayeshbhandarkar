@@ -20,9 +20,6 @@
 - 💬 Ask me about : **Python, C++, HTML, CSS, Php, Javascript** <br>
  
 - 📫 How to reach me : **<a href="mailto: bhandarkarjayesh721@gmail.com">bhandarkarjayesh721@gmail.com</a>** <br>
-  <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
-  </a>
 
 </div>
 <br>
@@ -35,7 +32,8 @@
     <a href="mailto:bhandarkarjayesh721@gmail.com" target="blank"><img src="https://skillicons.dev/icons?i=gmail" /></a>&nbsp;
     <a href="https://twitter.com/https://twitter.com/its_jayesh_777?t=ddjcapw0rcfmxujawsbhcg&s=08" target="blank"><img src="https://skillicons.dev/icons?i=twitter" /></a>&nbsp;
     <a href="https://github.com/jayeshbhandarkar" target="blank"><img src="https://skillicons.dev/icons?i=github" /></a>&nbsp;
-    <a href="https://instagram.com/_its_jayesh_92_" target="blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+    <a href="https://instagram.com/_its_jayesh_92_" target="blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>&nbsp;
+    <a href="https://jayeshbhandarkar.github.io/Portfolio/" target="blank"><img src="https://skillicons.dev/icons?i=portfolio" />
 </div>
 <hr/>
 
