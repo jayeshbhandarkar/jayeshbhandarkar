@@ -45,8 +45,9 @@
 <hr/>
 
 <div align=center>
-<p><img width=390 src="https://github-readme-stats.vercel.app/api/top-langs?username=jayeshbhandarkar&show_icons=true&theme=react&border_radius=10&locale=en&layout=compact" alt="jayeshbhandarkar" /></p>
+<p><img width=350 src="https://github-readme-stats.vercel.app/api/top-langs?username=jayeshbhandarkar&show_icons=true&theme=react&border_radius=10&locale=en&layout=compact" alt="jayeshbhandarkar" /></p>
 <p><img width=390 src="https://github-readme-stats.vercel.app/api?username=jayeshbhandarkar&show_icons=true&theme=dark&hide_border=false&rank_icon=github&locale=en" alt="jayeshbhandarkar" /></p>
+![](https://github-readme-streak-stats.herokuapp.com/?user=jayeshbhandarkar&theme=dark&hide_border=false)<br/>
 </div>
 
 <!--<h2 align="center">⚡ Stats ⚡</h2>
