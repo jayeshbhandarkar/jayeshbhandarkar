@@ -9,7 +9,7 @@
 <h3 align="center"><i>A Passionate IT Engineering Student , thrive on continuous learning and have an insatiable appetite for acquiring new knowledge and skills</i></h3>
 <hr/>
 <h3 align="center"><b>👨🏻‍💻 Work 👨🏻‍💻</b></h3>
-<img align="right" width=300 margin-top=20 alt="coading" src="./sample.gif">
+<img align="right" width=300 margin-top=20px alt="coading" src="./sample.gif">
 <br/>
 <!--<h3 align="left"><b>👨🏻‍💻 Work 👨🏻‍💻</b></h3>-->
 <div align="left">
