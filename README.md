@@ -48,7 +48,7 @@
 <br>
     <p><img align="left" width=400 src="https://github-readme-stats.vercel.app/api?username=jayeshbhandarkar&show_icons=true&theme=react&hide_border=false&rank_icon=github&locale=en" alt="jayeshbhandarkar" /></p>
     <p><img align="right" width=320 src="https://github-readme-stats.vercel.app/api/top-langs?username=jayeshbhandarkar&show_icons=true&theme=react&border_radius=10&locale=en&layout=compact" alt="jayeshbhandarkar" /></p>
-    
+<br/>
 <br/>
 <br/>
 <hr/>
