@@ -53,7 +53,6 @@
 <br/>
 <hr/>
 
-
 <h3 align="center">✍️ Random Dev Quote ✍️</h3>
 <br>
 <div align=center>
@@ -71,5 +70,4 @@
 ![](https://github-contributor-stats.vercel.app/api?username=jayeshbhandarkar&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 </div>
-<br/>
 <hr/>
