@@ -33,7 +33,8 @@
     <a href="https://twitter.com/https://twitter.com/its_jayesh_777?t=ddjcapw0rcfmxujawsbhcg&s=08" target="blank"><img src="https://skillicons.dev/icons?i=twitter" /></a>&nbsp;
     <a href="https://github.com/jayeshbhandarkar" target="blank"><img src="https://skillicons.dev/icons?i=github" /></a>&nbsp;
     <a href="https://instagram.com/_its_jayesh_92_" target="blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>&nbsp;
-    <a href="https://jayeshbhandarkar.github.io/Portfolio/" target="blank"><img src="https://skillicons.dev/icons?i=portfolio" />
+    <a href="https://jayeshbhandarkar.github.io/Portfolio/" target="blank"><img src="![image](https://github.com/jayeshbhandarkar/jayeshbhandarkar/assets/137681052/33ed65f1-ac09-40f0-a635-8893370e677a)
+" />
 </div>
 <hr/>
 
