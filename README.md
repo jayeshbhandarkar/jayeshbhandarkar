@@ -20,6 +20,10 @@
 - 💬 Ask me about : **Python, C++, HTML, CSS, Php, Javascript** <br>
  
 - 📫 How to reach me : **<a href="mailto: bhandarkarjayesh721@gmail.com">bhandarkarjayesh721@gmail.com</a>** <br>
+  <a href="https://salesp07.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+  </a>
+
 </div>
 <br>
 <hr/>
