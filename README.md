@@ -50,6 +50,7 @@
 <div align=center>
     <p><img width=400 src="https://github-readme-stats.vercel.app/api?username=jayeshbhandarkar&show_icons=true&theme=react&hide_border=false&rank_icon=github&locale=en" alt="jayeshbhandarkar" /></p>
     <p><img width=315 src="https://github-readme-stats.vercel.app/api/top-langs?username=jayeshbhandarkar&show_icons=true&theme=react&border_radius=10&locale=en&layout=compact" alt="jayeshbhandarkar" /></p>
+    <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=jayeshbhandarkar" height="220px"/></p>
 </div>
 <hr/>
 
