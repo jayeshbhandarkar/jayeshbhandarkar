@@ -47,7 +47,7 @@
 <h3 align="center">📊 Github Stats ⚡</h3>
 <br>
 <div align=center>
-    ![](https://github-readme-streak-stats.herokuapp.com/?user=jayeshbhandarkar&theme=dark&hide_border=false)
+    <p><img width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=jayeshbhandarkar&count_private=true&theme=react&border_radius=10" alt="jayeshbhandarkar" /></p>
     <p><img width=400 src="https://github-readme-stats.vercel.app/api?username=jayeshbhandarkar&show_icons=true&theme=react&hide_border=false&rank_icon=github&locale=en" alt="jayeshbhandarkar" /></p>
     <p><img width=320 src="https://github-readme-stats.vercel.app/api/top-langs?username=jayeshbhandarkar&show_icons=true&theme=react&border_radius=10&locale=en&layout=compact" alt="jayeshbhandarkar" /></p>
     
