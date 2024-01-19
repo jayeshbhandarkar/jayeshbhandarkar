@@ -46,11 +46,10 @@
 
 <h3 align="center">📊 Github Stats ⚡</h3>
 <br>
-<div align=center>
-    <p><img width=400 src="https://github-readme-stats.vercel.app/api?username=jayeshbhandarkar&show_icons=true&theme=react&hide_border=false&rank_icon=github&locale=en" alt="jayeshbhandarkar" /></p>
-    <p><img width=320 src="https://github-readme-stats.vercel.app/api/top-langs?username=jayeshbhandarkar&show_icons=true&theme=react&border_radius=10&locale=en&layout=compact" alt="jayeshbhandarkar" /></p>
+    <p><img align="left" width=400 src="https://github-readme-stats.vercel.app/api?username=jayeshbhandarkar&show_icons=true&theme=react&hide_border=false&rank_icon=github&locale=en" alt="jayeshbhandarkar" /></p>
+    <p><img align="right" width=320 src="https://github-readme-stats.vercel.app/api/top-langs?username=jayeshbhandarkar&show_icons=true&theme=react&border_radius=10&locale=en&layout=compact" alt="jayeshbhandarkar" /></p>
     
-</div>
+
 <br/>
 <hr/>
 
@@ -62,13 +61,15 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
     
 </div>
+<br/>
 <hr/>
 
-<h3 align="center"> 🔝 Top Contributed Repo</h3>
+<h3 align="center"> 🔝 Top Contributed Repo 🔝</h3>
 <br>
 <div align=center>
     
 ![](https://github-contributor-stats.vercel.app/api?username=jayeshbhandarkar&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 </div>
+<br/>
 <hr/>
