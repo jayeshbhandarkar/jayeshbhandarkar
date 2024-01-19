@@ -79,7 +79,7 @@
 <br>
 <div align="center">
     <a href="https://jayeshbhandarkar.github.io/Portfolio/" target="_blank">
-        <img src="https://img.shields.io/badge/Portfolio-22CAFF?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+        <img src="https://img.shields.io/badge/Portfolio-FF480E?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
     </a>
 </div>
 <hr/>
