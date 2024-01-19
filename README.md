@@ -40,7 +40,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,github,cpp,php,androidstudio,vscode" /><br>
-    <img src="https://skillicons.dev/icons?i=python,javascript,c,java,mysql,figma,ps,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,c,java,mysql,figma,flask,ps" /><br>
 </div>
 <br/>
 <hr/>
