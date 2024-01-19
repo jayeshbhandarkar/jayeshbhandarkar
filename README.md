@@ -54,7 +54,7 @@
 <h3 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h3>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,c++,jupyter_notebook,php" />
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,cpp,jupyter_notebook,php" />
     <img src="https://skillicons.dev/icons?i=python,javascript,c,java,figma,mysql,canva,flask" /><br>
 </div>
 <br/>
