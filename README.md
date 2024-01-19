@@ -32,7 +32,6 @@
     <a href="https://linkedin.com/in/https://www.linkedin.com/in/jayesh-bhandarkar-66499a236" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>&nbsp;
     <a href="https://twitter.com/https://twitter.com/its_jayesh_777?t=ddjcapw0rcfmxujawsbhcg&s=08" target="blank"><img src="https://skillicons.dev/icons?i=twitter" /></a>&nbsp;
     <a href="https://instagram.com/_its_jayesh_92_" target="blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>&nbsp;
-        <img src="https://skillicons.dev/icons?i=linkedin,twitter,instagram" />
 </div>
 <hr/>
 
