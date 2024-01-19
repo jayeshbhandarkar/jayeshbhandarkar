@@ -10,7 +10,7 @@
 <hr/>
 <img align="right" width=300 alt="coading" src="./sample.gif">
 <br/>
-<h3 align="center">👨🏻‍💻 Work 👨🏻‍💻</h3>
+<h3 align="left\t\t">👨🏻‍💻 Work 👨🏻‍💻</h3>
 <br/>
 <div align="left">
     
