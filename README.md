@@ -24,7 +24,7 @@
 <br>
 <hr/>
 
-<h3 align="center">🔗 Connect with me:</h3>
+<h3 align="center">🔗 Connect with Me 🔗</h3>
 <br/>
 <div align="center">
     <a href="https://linkedin.com/in/https://www.linkedin.com/in/jayesh-bhandarkar-66499a236" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>&nbsp;
@@ -35,7 +35,7 @@
 </div>
 <hr/>
 
-<h3 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h3>
+<h3 align="center">⚒️ Languages - Frameworks - Tools ⚒️</h3>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,github,cpp,php,figma,vscode" /><br/>
