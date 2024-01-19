@@ -9,9 +9,8 @@
 <h3 align="center"><i>A Passionate IT Engineering Student , thrive on continuous learning and have an insatiable appetite for acquiring new knowledge and skills</i></h3>
 <hr/>
 <img align="right" width=300 alt="coading" src="./sample.gif">
-
-<h3 align="center">👨🏻‍💻 Work 👨🏻‍💻</h3>
 <br/>
+<h3 align="center">👨🏻‍💻 Work 👨🏻‍💻</h3>
 <div align="left">
     
 - 👨‍🎓 I’m currently Pursuing a **BTech in Information Technology** <br>
@@ -34,7 +33,6 @@
     <a href="https://twitter.com/https://twitter.com/its_jayesh_777?t=ddjcapw0rcfmxujawsbhcg&s=08" target="blank"><img src="https://skillicons.dev/icons?i=twitter" /></a>&nbsp;
     <a href="https://github.com/jayeshbhandarkar" target="blank"><img src="https://skillicons.dev/icons?i=github" /></a>&nbsp;
     <a href="https://instagram.com/_its_jayesh_92_" target="blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-" />
 </div>
 <hr/>
 
