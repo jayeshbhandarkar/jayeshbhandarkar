@@ -55,16 +55,20 @@
 <hr/>
 
 
-<h3 align="left">✍️ Random Dev Quote ✍️</h3>
+<h3 align="center">✍️ Random Dev Quote ✍️</h3>
 <br>
-<div align=left>
+<div align=center>
     
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
     
 </div>
+<hr/>
 
-<h3 align="right"> 🔝 Top Contributed Repo</h3>
+<h3 align="center"> 🔝 Top Contributed Repo</h3>
 <br>
-<div align=right>
+<div align=center>
+    
 ![](https://github-contributor-stats.vercel.app/api?username=jayeshbhandarkar&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 </div>
+<hr/>
