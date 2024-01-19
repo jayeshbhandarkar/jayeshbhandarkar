@@ -37,10 +37,8 @@
 <h3 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h3>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,cpp,php" /><br>
-    <img src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" alt="Jupyter Notebook" /><br>
-    <img src="https://skillicons.dev/icons?i=python,javascript,c,java,figma,mysql,canva,flask" />
-    <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/02494c7c-de6a-43a6-9293-6369696842ed" alt="Canva" size="20px"/><br>
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,cpp,jupyternotebook,php" /><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,c,java,figma,mysql,canva,flask" /><br>
 </div>
 <br/>
 <hr/>
