@@ -10,7 +10,7 @@
 <hr/>
 <img align="right" width=300 alt="coading" src="./sample.gif">
 <br/>
-<h3 align="left"><b>👨🏻‍💻 Work 👨🏻‍💻</b></h3>
+<h3 align="left"><b>&emsp;👨🏻‍💻 Work 👨🏻‍💻</b></h3>
 <div align="left">
     
 - 👨‍🎓 I’m currently Pursuing a **BTech in Information Technology** <br>
