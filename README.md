@@ -45,7 +45,7 @@
 <hr/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayeshbhandarkar&show_icons=true&&theme=react&rank_icon=github&border_radius=10&locale=en&layout=compact" alt="jayeshbhandarkar" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jayeshbhandarkar&show_icons=true&locale=en" alt="jayeshbhandarkar" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jayeshbhandarkar&show_icons=true&rank_icon=github&locale=en" alt="jayeshbhandarkar" /></p>
 
 <!--<h2 align="center">⚡ Stats ⚡</h2>
 <br>
