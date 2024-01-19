@@ -30,17 +30,17 @@
 <a href="https://www.hackerrank.com/bhandarkarjayes1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bhandarkarjayes1" height="30" width="40" /></a>
 -->
     <a href="https://linkedin.com/in/https://www.linkedin.com/in/jayesh-bhandarkar-66499a236" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>&nbsp;
+    <a href="mailto:bhandarkarjayesh721@gmail.com" target="blank"><img src="https://skillicons.dev/icons?i=gmail" /></a>&nbsp;
     <a href="https://twitter.com/https://twitter.com/its_jayesh_777?t=ddjcapw0rcfmxujawsbhcg&s=08" target="blank"><img src="https://skillicons.dev/icons?i=twitter" /></a>&nbsp;
     <a href="https://instagram.com/_its_jayesh_92_" target="blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>&nbsp;
-    <a href="mailto:bhandarkarjayesh721@gmail.com" target="blank"><img src="https://skillicons.dev/icons?i=gmail" /></a>&nbsp;
 </div>
 <hr/>
 
 <h3 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h3>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,github,cpp,php,vscode" /><br>
-    <img src="https://skillicons.dev/icons?i=python,javascript,c,java,mysql,figma,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,github,cpp,php,android,vscode" /><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,c,java,mysql,figma,ps,flask" /><br>
 </div>
 <br/>
 <hr/>
