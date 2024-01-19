@@ -29,10 +29,11 @@
 <!--
 <a href="https://www.hackerrank.com/bhandarkarjayes1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bhandarkarjayes1" height="30" width="40" /></a>
 -->
-    <a href="https://linkedin.com/in/https://www.linkedin.com/in/jayesh-bhandarkar-66499a236" target="blank"> <img src="https://skillicons.dev/icons?i=linkedin" />
+    <!--<a href="https://linkedin.com/in/https://www.linkedin.com/in/jayesh-bhandarkar-66499a236" target="blank"> <img src="https://skillicons.dev/icons?i=linkedin" />
     <a href="https://twitter.com/https://twitter.com/its_jayesh_777?t=ddjcapw0rcfmxujawsbhcg&s=08" target="blank"> <img src="https://skillicons.dev/icons?i=twitter" />
     <a href="https://instagram.com/_its_jayesh_92_" target="blank"> <img src="https://skillicons.dev/icons?i=instagram" />
-    <a href="https://fb.com/https://www.facebook.com/jayesh.bhandarkar.92?mibextid=zbwkwl" target="blank"> <img src="https://skillicons.dev/icons?i=facebook" />
+    <a href="https://fb.com/https://www.facebook.com/jayesh.bhandarkar.92?mibextid=zbwkwl" target="blank"> <img src="https://skillicons.dev/icons?i=facebook" />-->
+    <a href="https://linkedin.com/in/https://www.linkedin.com/in/jayesh-bhandarkar-66499a236" href="https://twitter.com/https://twitter.com/its_jayesh_777?t=ddjcapw0rcfmxujawsbhcg&s=08" href="https://instagram.com/_its_jayesh_92_" href="https://fb.com/https://www.facebook.com/jayesh.bhandarkar.92?mibextid=zbwkwl" target="blank"><img src="https://skillicons.dev/icons?i=linkedin,twitter,instagram,facebook" />
 </div>
 <hr/>
 
