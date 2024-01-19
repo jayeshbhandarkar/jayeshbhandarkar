@@ -8,7 +8,7 @@
 
 <h3 align="center"><i>A Passionate IT Engineering Student , thrive on continuous learning and have an insatiable appetite for acquiring new knowledge and skills</i></h3>
 <hr/>
-<h3 align="center"><b>👨🏻‍💻 Enthusiastic IT Student 👨🏻‍💻</b></h3>
+<h2 align="center"><b>👨🏻‍💻 Enthusiastic IT Student 👨🏻‍💻</b></h2>
 <img align="right" width=300 alt="coading" src="./sample.gif">
 <br/>
 
@@ -28,7 +28,7 @@
 <br>
 <hr/>
 
-<h3 align="center"><b>🔗 Connect with Me 🔗</b></h3>
+<h2 align="center"><b>🔗 Connect with Me 🔗</b></h2>
 <br/>
 <div align="center">
     <a href="https://linkedin.com/in/https://www.linkedin.com/in/jayesh-bhandarkar-66499a236" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>&nbsp;
@@ -39,7 +39,7 @@
 </div>
 <hr/>
 
-<h3 align="center"><b>⚒️ Languages - Frameworks - Tools ⚒️</b></h3>
+<h2 align="center"><b>⚒️ Languages - Frameworks - Tools ⚒️</b></h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,github,cpp,php,figma,vscode" /><br/>
@@ -48,7 +48,7 @@
 <br/>
 <hr/>
 
-<h3 align="center"><b>📊⚡ Github Stats ⚡📊</b></h3>
+<h2 align="center"><b>📊⚡ Github Stats ⚡📊</b></h2>
 <br>
 <div align=center>
     <img width=405 src="https://github-readme-stats.vercel.app/api?username=jayeshbhandarkar&show_icons=true&theme=react&hide_border=false&rank_icon=github&locale=en" alt="jayeshbhandarkar" />&nbsp;&nbsp;
@@ -57,7 +57,7 @@
 </div>
 <hr/>
 
-<h3 align="center"><b>✍️ Random Dev Quote ✍️</b></h3>
+<h2 align="center"><b>✍️ Random Dev Quote ✍️</b></h2>
 <br>
 <div align=center>
     
@@ -66,7 +66,7 @@
 </div>
 <hr/>
 
-<h3 align="center"><b>🔝 Top Contributed Repo 🔝</b></h3>
+<h2 align="center"><b>🔝 Top Contributed Repo 🔝</b></h2>
 <br>
 <div align=center>
     
