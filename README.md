@@ -75,7 +75,7 @@
 </div>
 <hr/>
 
-<h2 align="center"><b>✍️ Visit Portfolio For More Info .... ✍️</b></h2>
+<h2 align="center"><b>💼 Visit Portfolio For More Info .... 💼</b></h2>
 <br>
 <div align="center">
     <a href="https://jayeshbhandarkar.github.io/Portfolio/" target="_blank">
