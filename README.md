@@ -82,4 +82,3 @@
         <img src="https://img.shields.io/badge/Portfolio-FF480E?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
     </a>
 </div>
-<hr/>
