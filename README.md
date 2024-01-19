@@ -38,7 +38,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,cpp,php" /><br>
-    <img src="https://github.com/saumya66/saumya66/blob/main/assets/logo/jupy.png" alt="Jupyter Notebook" /><br>
+    <img src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" alt="Jupyter Notebook" /><br>
     <img src="https://skillicons.dev/icons?i=python,javascript,c,java,figma,mysql,canva,flask" />
     <img src="url_for_canva_icon" alt="Canva" /><br>
 </div>
