@@ -10,7 +10,7 @@
 <hr/>
 <img align="right" width=300 alt="coading" src="./sample.gif">
 <br/>
-<h3 align="left">👨🏻‍💻 Work 👨🏻‍💻</h3>
+<h3 align="left"><b>👨🏻‍💻 Work 👨🏻‍💻</b></h3>
 <div align="left">
     
 - 👨‍🎓 I’m currently Pursuing a **BTech in Information Technology** <br>
@@ -25,7 +25,7 @@
 <br>
 <hr/>
 
-<h3 align="center">🔗 Connect with Me 🔗</h3>
+<h3 align="center"><b>🔗 Connect with Me 🔗</b></h3>
 <br/>
 <div align="center">
     <a href="https://linkedin.com/in/https://www.linkedin.com/in/jayesh-bhandarkar-66499a236" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>&nbsp;
@@ -36,7 +36,7 @@
 </div>
 <hr/>
 
-<h3 align="center">⚒️ Languages - Frameworks - Tools ⚒️</h3>
+<h3 align="center"><b>⚒️ Languages - Frameworks - Tools ⚒️</b></h3>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,github,cpp,php,figma,vscode" /><br/>
@@ -45,7 +45,7 @@
 <br/>
 <hr/>
 
-<h3 align="center">📊⚡ Github Stats ⚡📊</h3>
+<h3 align="center"><b>📊⚡ Github Stats ⚡📊</b></h3>
 <br>
 <div align=center>
     <p><img width=400 src="https://github-readme-stats.vercel.app/api?username=jayeshbhandarkar&show_icons=true&theme=react&hide_border=false&rank_icon=github&locale=en" alt="jayeshbhandarkar" /></p>
@@ -53,7 +53,7 @@
 </div>
 <hr/>
 
-<h3 align="center">✍️ Random Dev Quote ✍️</h3>
+<h3 align="center"><b>✍️ Random Dev Quote ✍️</b></h3>
 <br>
 <div align=center>
     
@@ -62,7 +62,7 @@
 </div>
 <hr/>
 
-<h3 align="center"> 🔝 Top Contributed Repo 🔝</h3>
+<h3 align="center"><b>🔝 Top Contributed Repo 🔝</b></h3>
 <br>
 <div align=center>
     
