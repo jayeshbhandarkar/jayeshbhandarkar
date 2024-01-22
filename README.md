@@ -67,7 +67,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
         
 </td>
-<td><img style="float:right" width=300 height=270 alt="coder" src="./coder.gif"></td>
+<td><img style="float:right" width=300 height=260 alt="coder" src="./coder.gif"></td>
 </tr>
 </table>
 </div>
