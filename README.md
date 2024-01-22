@@ -60,7 +60,7 @@
 <h2 align="center"><b>✍️ Random Dev Quote ✍️</b></h2>
 <br>
 <div align=center style="display:flex;">
-<table style="border:none">
+<table style="border:false">
 <tr>
 <td>  
                     
