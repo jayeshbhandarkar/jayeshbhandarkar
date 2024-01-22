@@ -60,10 +60,10 @@
 <h2 align="center"><b>✍️ Random Dev Quote ✍️</b></h2>
 <br>
 <div align=center>
-    <img width=300 alt="coder" src="./coder.gif">&nbsp;&nbsp;
+    <p><img width=300 alt="coder" src="./coder.gif">
     
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-    
+    </p>
 </div>
 <hr/>
 
