@@ -59,7 +59,7 @@
 
 <h2 align="center"><b>✍️ Random Dev Quote ✍️</b></h2>
 <br>
-<div align=center>
+<div align=right>
     
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
     
