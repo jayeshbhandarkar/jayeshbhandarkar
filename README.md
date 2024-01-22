@@ -62,7 +62,7 @@
 <div align=center style="display:flex;">
 <table>
 <tr>
-<td><img width=300 alt="coder" src="./coder.gif"></td>
+<td><img style="float:left" width=300 alt="coder" src="./coder.gif"></td>
 <td>  
                     
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
