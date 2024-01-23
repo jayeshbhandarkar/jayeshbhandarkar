@@ -77,7 +77,7 @@
 <br>
 <div align=center style="display:flex;">
 <table>
-<tr>
+<tr height=250>
 <td>  
     
 ![](https://github-contributor-stats.vercel.app/api?username=jayeshbhandarkar&limit=5&theme=react&combine_all_yearly_contributions=true)
