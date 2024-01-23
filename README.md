@@ -77,13 +77,13 @@
 <br>
 <div align=center style="display:flex;">
 <table>
-<tr height=230>
+<tr height=220>
 <td>  
     
 ![](https://github-contributor-stats.vercel.app/api?username=jayeshbhandarkar&limit=5&theme=react&combine_all_yearly_contributions=true)
 
 </td>
-<td><img style="float:right" src="https://c.tenor.com/Rft05nnPfpgAAAAM/sewa-rumah-nak-baya-bile.gif" width=300 height=220/></td>
+<td><img style="float:left" src="https://c.tenor.com/Rft05nnPfpgAAAAM/sewa-rumah-nak-baya-bile.gif" width=300 height=220/></td>
 </tr>
 </table>
 </div>
