@@ -75,10 +75,17 @@
 
 <h2 align="center"><b>🔝 Top Contributed Repo 🔝</b></h2>
 <br>
-<div align=center>
+<div align=center style="display:flex;">
+<table>
+<tr>
+<td>  
     
 ![](https://github-contributor-stats.vercel.app/api?username=jayeshbhandarkar&limit=5&theme=react&combine_all_yearly_contributions=true)
 
+</td>
+<td><img style="float:right" src="https://c.tenor.com/Rft05nnPfpgAAAAM/sewa-rumah-nak-baya-bile.gif" width=300 height=200/></td>
+</tr>
+</table>
 </div>
 <hr/>
 
