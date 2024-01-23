@@ -8,7 +8,7 @@
 
 <h3 align="center"><i>A Passionate IT Engineering Student , thrive on continuous learning and have an insatiable appetite for acquiring new knowledge and skills</i></h3>
 <hr/>
-<h2 align="center"><b>👨🏻‍💻 💫 Enthusiastic IT Student 💫 👨🏻‍💻</b></h2>
+<h2 align="center"><b>👨🏻‍💻 Enthusiastic IT Student 👨🏻‍💻</b></h2>
 <img align="right" width=300 alt="coading" src="./sample.gif">
 <br/>
 
