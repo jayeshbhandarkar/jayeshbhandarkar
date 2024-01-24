@@ -80,7 +80,7 @@
 <tr>
 <td>  
     
-![](https://github-contributor-stats.vercel.app/api?username=jayeshbhandarkar&limit=5&theme=vision-friendly-dark&combine_all_yearly_contributions=true&width=300)
+![](https://github-contributor-stats.vercel.app/api?username=jayeshbhandarkar&limit=5&theme=vision-friendly-dark&combine_all_yearly_contributions=true&width=200)
 
 </td>
 <td><img style="float:right" src="https://c.tenor.com/Rft05nnPfpgAAAAM/sewa-rumah-nak-baya-bile.gif" width=300 height=220/></td>
