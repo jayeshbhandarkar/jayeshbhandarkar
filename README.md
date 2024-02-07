@@ -90,7 +90,9 @@
 <hr/>
 
 <h2 align="center"><b>🏆 GitHub Trophies 🏆</b></h2>
+
 ![](https://github-trophies.vercel.app/?username=jayeshbhandarkar&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
+
 <hr/>
 
 <h2 align="center"><b>💼 For More Info Visit .... 💼</b></h2>
