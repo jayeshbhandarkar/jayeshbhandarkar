@@ -90,9 +90,12 @@
 <hr/>
 
 <h2 align="center"><b>🏆 GitHub Trophies 🏆</b></h2>
-
+<br>
+<div align="center">
+    
 ![](https://github-profile-trophy.vercel.app/?username=jayeshbhandarkar&theme=monokai&no-frame=true&hide=Issues,PullRequest,Reviews&column=3&margin-w=15&margin-h=15)
 
+</div>
 <hr/>
 
 <h2 align="center"><b>💼 For More Info Visit .... 💼</b></h2>
