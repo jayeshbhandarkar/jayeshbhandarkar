@@ -98,7 +98,7 @@
 </div>
 <hr/>
 
-<h2 align="center"><b>💼 For More Info Visit .... 💼</b></h2>
+<h2 align="center"><b>💼 For More Info, Visit .... 💼</b></h2>
 <br>
 <div align="center">
     <a href="https://jayeshbhandarkar.github.io/Portfolio/" target="_blank">
