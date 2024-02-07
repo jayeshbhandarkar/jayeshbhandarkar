@@ -91,7 +91,7 @@
 
 <h2 align="center"><b>🏆 GitHub Trophies 🏆</b></h2>
 
-![](https://github-trophies.vercel.app/?username=jayeshbhandarkar&theme=onedark&no-frame=true&hide=Issues,PullRequest,AchieveSSSRank,AncientUser,Organizations&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=jayeshbhandarkar&column=3&margin-w=15&margin-h=15)
 
 <hr/>
 
