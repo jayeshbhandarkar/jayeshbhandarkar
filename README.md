@@ -107,3 +107,10 @@
     <br><br>
     <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" />
 </div>
+<hr/>
+
+<h2 align="center"><b>📈🌟 GitHub Activity Graph 🌟📈</b></h2>
+<br>
+<div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jayeshbhandarkar&radius=16&theme=tokyo-night&area=true&order=5&bg_color=Black" height="300" alt="activity-graph graph"  />
+</div>
