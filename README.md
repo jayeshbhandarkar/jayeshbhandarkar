@@ -8,9 +8,9 @@
     <img src='rocket.gif' width="70px">
 </h1>
 
-<h3 align="center"><img src='coder.gif' width="70px"><i>A Passionate IT Engineering Student , thrive on continuous learning and have an insatiable appetite for acquiring new knowledge and skills</i></h3>
+<h3 align="center"><img src='demo.gif' width="70px"><i>A Passionate IT Engineering Student , thrive on continuous learning and have an insatiable appetite for acquiring new knowledge and skills</i></h3>
 <hr/>
-<h2 align="center"><img src='rocket.gif' width="70px"><b>👨🏻‍💻 About Me 👨🏻‍💻</b></h2>
+<h2 align="center"><img src='demo.gif' width="70px"><b>👨🏻‍💻 About Me 👨🏻‍💻</b></h2>
 <img align="right" width=300 alt="coading" src="./sample.gif">
 <br/>
 
