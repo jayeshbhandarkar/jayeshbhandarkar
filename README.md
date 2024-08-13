@@ -95,7 +95,7 @@
 <br>
 <div align="center">
     
-![](https://github-profile-trophy.vercel.app/?username=jayeshbhandarkar&theme=monokai&no-frame=true&row=2&column=7&margin-w=15&margin-h=15)
+![](https://github-profile-trophy.vercel.app/?username=jayeshbhandarkar&theme=monokai&no-frame=true&row=2&column=5&margin-w=15&margin-h=15)
 
 </div>
 <hr/>
