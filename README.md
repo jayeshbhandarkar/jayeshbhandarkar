@@ -97,7 +97,7 @@
     
 ![](https://github-profile-trophy.vercel.app/?username=jayeshbhandarkar&theme=monokai&no-frame=false&row=2&column=4&margin-w=15&margin-h=15)
 
-</div>
+<img width=800 src="https://github-profile-trophy.vercel.app/?username=jayeshbhandarkar&column=10&theme=gruvbox&no-frame=true"/></div>
 <hr/>
 
 <h2 align="center"><b>💼 For More Info, Visit .... 💼</b></h2>
