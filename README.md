@@ -105,6 +105,7 @@
 <div align="center">
     <a href="https://jayeshbhandarkar.github.io/Portfolio/" target="_blank">
         <img src="https://img.shields.io/badge/Portfolio-FF480E?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+        <img src="https://github-profile-trophy.vercel.app/?username=jayeshbhandarkar&no-bg=true&no-frame=true&row=2&column=3"/>
     </a>
     <br><br>
     <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" />
