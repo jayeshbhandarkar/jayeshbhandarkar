@@ -7,9 +7,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+!+👋;+I'm+Jayesh+Bhandarkar+!!;" />
     <img src='rocket.gif' width="70px">
 </h1>
-<p align="center">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
-</p>
+
 <h3 align="center"><i>A Passionate IT Engineering Student, thrive on continuous learning and have an insatiable appetite for acquiring new knowledge and skills</i></h3>
 <!--<hr/>-->
 <p align="center">
