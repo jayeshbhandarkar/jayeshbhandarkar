@@ -32,9 +32,7 @@
 
 </div>
 <br>
-<p align="center">
-    <img src="https://github.com/gauravpatil97886/gauravpatil97886/blob/main/gaurav_gif/Line.gif"/>
-</p>
+<hr/>
 
 <h2 align="center"><b>🔗 Connect with Me 🔗</b></h2>
 <br/>
