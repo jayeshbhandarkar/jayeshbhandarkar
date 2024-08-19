@@ -100,7 +100,9 @@
 ![](https://github-profile-trophy.vercel.app/?username=jayeshbhandarkar&theme=monokai&no-frame=false&row=2&column=4&margin-w=15&margin-h=15)
 
 </div>
-<hr/>
+<p align="center">
+    <img src="https://github.com/gauravpatil97886/gauravpatil97886/blob/main/gaurav_gif/Line.gif"/>
+</p>
 
 <h2 align="center"><b>💼 For More Info, Visit .... 💼</b></h2>
 <br>
