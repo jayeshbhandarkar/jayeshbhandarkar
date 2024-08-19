@@ -9,7 +9,6 @@
 </h1>
 
 <h3 align="center"><i>A Passionate IT Engineering Student, thrive on continuous learning and have an insatiable appetite for acquiring new knowledge and skills</i></h3>
-<!--<hr/>-->
 <p align="center">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
@@ -108,9 +107,11 @@
     <a href="https://jayeshbhandarkar.github.io/Portfolio/" target="_blank">
         <img src="https://img.shields.io/badge/Portfolio-FF480E?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
     </a>
-    <br><br>
-    <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" />
 </div>
 <p align="center">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
+
+<div align="center">
+    <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" />
+</div>
