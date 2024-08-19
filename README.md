@@ -6,6 +6,7 @@
     <img src='rocket.gif' width="70px">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+!+👋;+I'm+Jayesh+Bhandarkar+!!;" />
     <img src='rocket.gif' width="70px">
+    <img src="https://github.com/gauravpatil97886/gauravpatil97886/blob/main/gaurav_gif/Line.gif"/>
 </h1>
 
 <h3 align="center"><i>A Passionate IT Engineering Student, thrive on continuous learning and have an insatiable appetite for acquiring new knowledge and skills</i></h3>
