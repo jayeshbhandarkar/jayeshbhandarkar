@@ -13,6 +13,7 @@
 <p align="center">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
+    
 <h2 align="center"><b>👨🏻‍💻 About Me 👨🏻‍💻</b></h2>
 <img align="right" width=300 alt="coading" src="./sample.gif">
 <br/>
@@ -31,7 +32,6 @@
 
 </div>
 <br>
-<!--<hr/>-->
 <p align="center">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
@@ -45,7 +45,9 @@
     <a href="https://github.com/jayeshbhandarkar" target="blank"><img src="https://skillicons.dev/icons?i=github" /></a>&nbsp;
     <a href="https://instagram.com/_its_jayesh_92_" target="blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 </div>
-<hr/>
+<p align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
 
 <h2 align="center"><b>⚒️ Languages - Frameworks - Tools ⚒️</b></h2>
 <br/>
@@ -54,7 +56,9 @@
     <img src="https://skillicons.dev/icons?i=python,javascript,java,c,mysql,androidstudio,flask,processing" /><br/>
 </div>
 <br/>
-<hr/>
+<p align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
 
 <h2 align="center"><b>📊⚡ GitHub Stats ⚡📊</b></h2>
 <br>
@@ -63,7 +67,9 @@
     <img width=315 src="https://github-readme-stats.vercel.app/api/top-langs?username=jayeshbhandarkar&show_icons=true&theme=react&border_radius=10&locale=en&layout=compact" alt="jayeshbhandarkar" /><br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayeshbhandarkar&theme=dark" height="195px"/>
 </div>
-<hr/>
+<p align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
 
 <h2 align="center"><b>✍️ Random Dev Quote ✍️</b></h2>
 <br>
@@ -79,7 +85,9 @@
 </tr>
 </table>
 </div>
-<hr/>
+<p align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
 
 <h2 align="center"><b>🔝 Top Contributed Repo 🔝</b></h2>
 <br>
@@ -93,7 +101,9 @@
 </tr>
 </table>
 </div>
-<hr/>
+<p align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
 
 <h2 align="center"><b>🏆 GitHub Trophies 🏆</b></h2>
 <br>
@@ -102,7 +112,9 @@
 ![](https://github-profile-trophy.vercel.app/?username=jayeshbhandarkar&theme=monokai&no-frame=false&row=2&column=4&margin-w=15&margin-h=15)
 
 </div>
-<hr/>
+<p align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
 
 <h2 align="center"><b>💼 For More Info, Visit .... 💼</b></h2>
 <br>
