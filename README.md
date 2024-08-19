@@ -101,9 +101,7 @@
 </tr>
 </table>
 </div>
-<p align="center">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
-</p>
+<hr/>
 
 <h2 align="center"><b>🏆 GitHub Trophies 🏆</b></h2>
 <br>
@@ -112,9 +110,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jayeshbhandarkar&theme=monokai&no-frame=false&row=2&column=4&margin-w=15&margin-h=15)
 
 </div>
-<p align="center">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
-</p>
+<hr/>
 
 <h2 align="center"><b>💼 For More Info, Visit .... 💼</b></h2>
 <br>
@@ -125,3 +121,6 @@
     <br><br>
     <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" />
 </div>
+<p align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
