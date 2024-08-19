@@ -31,7 +31,10 @@
 
 </div>
 <br>
-<hr/>
+<!--<hr/>-->
+<p align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
 
 <h2 align="center"><b>🔗 Connect with Me 🔗</b></h2>
 <br/>
