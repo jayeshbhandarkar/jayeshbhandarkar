@@ -10,7 +10,7 @@
 
 <h3 align="center"><i>A Passionate IT Engineering Student, thrive on continuous learning and have an insatiable appetite for acquiring new knowledge and skills</i></h3>
 <p align="center">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"> 
 </p>
     
 <h2 align="center"><b>👨🏻‍💻 About Me 👨🏻‍💻</b></h2>
@@ -111,7 +111,7 @@
     <!--<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" />-->
 </div>
 <p align="center">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"> 
 </p>
 
 <div align="center">
