@@ -43,7 +43,7 @@
     <a href="https://instagram.com/_its_jayesh_92_" target="blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 </div>
 <p align="center">
-    <img src="https://github.com/gauravpatil97886/gauravpatil97886/blob/main/gaurav_gif/Line.gif"/>
+    <img src="https://github.com/gauravpatil97886/gauravpatil97886/blob/main/gaurav_gif/Line.gif" width="1920">
 </p>
 
 <h2 align="center"><b>⚒️ Languages - Frameworks - Tools ⚒️</b></h2>
