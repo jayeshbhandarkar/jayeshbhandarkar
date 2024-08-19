@@ -114,5 +114,6 @@
 </p>
 
 <div align="center">
-    <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="35px" />
+    <br>
+    <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="38px" />
 </div>
