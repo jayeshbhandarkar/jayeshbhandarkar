@@ -31,7 +31,6 @@
 
 </div>
 <br>
-<!--<hr/>-->
 <p align="center">
     <img src="https://github.com/gauravpatil97886/gauravpatil97886/blob/main/gaurav_gif/Line.gif" width="1920">
 </p>
@@ -46,7 +45,7 @@
     <a href="https://instagram.com/_its_jayesh_92_" target="blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 </div>
 <p align="center">
-    <img src="https://github.com/gauravpatil97886/gauravpatil97886/blob/main/gaurav_gif/Line.gif" width="1920">
+    <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920">
 </p>
 
 <h2 align="center"><b>⚒️ Languages - Frameworks - Tools ⚒️</b></h2>
@@ -57,7 +56,7 @@
 </div>
 <br/>
 <p align="center">
-    <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920">
+    <img src="https://github.com/gauravpatil97886/gauravpatil97886/blob/main/gaurav_gif/Line.gif" width="1920">
 </p>
 
 <h2 align="center"><b>📊⚡ GitHub Stats ⚡📊</b></h2>
@@ -69,7 +68,7 @@
     <br><br>
 </div>
 <p align="center">
-    <img src="https://github.com/gauravpatil97886/gauravpatil97886/blob/main/gaurav_gif/Line.gif" width="1920">
+    <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920">
 </p>
 
 <h2 align="center"><b>✍️ Random Dev Quote ✍️</b></h2>
@@ -87,7 +86,7 @@
 </table>
 </div>
 <p align="center">
-    <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920">
+    <img src="https://github.com/gauravpatil97886/gauravpatil97886/blob/main/gaurav_gif/Line.gif" width="1920">
 </p>
 
 <h2 align="center"><b>🔝 Top Contributed Repo 🔝</b></h2>
