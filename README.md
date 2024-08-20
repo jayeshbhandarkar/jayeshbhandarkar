@@ -1,6 +1,9 @@
 ![Header](./header.png)
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=jayeshbhandarkar&label=Profile%20views&color=0e75b6&style=flat" alt="jayeshbhandarkar" /> </p>
+<p align="center">
+    <img src="https://github.com/gauravpatil97886/gauravpatil97886/blob/main/gaurav_gif/Line.gif" width="1920">
+</p>
 
 <h1 align="center">
     <img src='rocket.gif' width="70px">
