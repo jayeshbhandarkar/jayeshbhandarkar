@@ -19,9 +19,9 @@
 
 <div align="left">
     
-- 👨‍🎓 I’m currently Pursuing a **BTech in Information Technology** <br>
+- 👨‍🎓 **I’m currently Pursuing a BTech in Information Technology** <br>
     
-- 🌱 I’m currently learning : **Data Science, Machine Learning** <br>
+- 🌱 **I’m currently learning : Data Science, Machine Learning** <br>
 
 - 🔭 I’m currently working on : **Enhancing Programming and Problem-Solving Proficiency** <br>
  
