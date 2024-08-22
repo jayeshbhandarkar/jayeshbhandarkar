@@ -29,6 +29,8 @@
  
 - 📫 How to reach me : **<a href="mailto: bhandarkarjayesh721@gmail.com">bhandarkarjayesh721@gmail.com</a>** <br>
 
+- ⚡ Fun fact: **I often talk to my code like it's a teammate—motivating it through bugs and celebrating every successful build! 😅🎉** <br>
+
 </div>
 <br>
 <p align="center">
