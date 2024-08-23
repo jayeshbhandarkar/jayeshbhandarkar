@@ -26,10 +26,10 @@
 - 🔭 **I’m currently working on : Enhancing Programming and Problem-Solving Proficiency** <br>
  
 - 💬 **Ask me about : Python, C++, HTML, CSS, Php, Javascript** <br>
- 
-- 📫 **How to reach me : <a href="mailto: bhandarkarjayesh721@gmail.com">bhandarkarjayesh721@gmail.com</a>** <br>
 
 - ⚡ **Fun fact : I often talk to my code like it's a teammate, motivating it through bugs and celebrating every successful build! 😅🎉** <br>
+
+- 📫 **How to reach me : <a href="mailto: bhandarkarjayesh721@gmail.com">bhandarkarjayesh721@gmail.com</a>** <br>
 
 </div>
 <br>
