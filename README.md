@@ -13,12 +13,14 @@
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1950">
 </p>
     
-<h2 align="center">
-    <b><img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/283929614-7d083e4b-8c04-4c94-b996-085e97c9a6a0.gif" width = 34px>
+<h2 align="center" style="display: flex; justify-content: center; align-items: center;">
+    <b>
+        <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/283929614-7d083e4b-8c04-4c94-b996-085e97c9a6a0.gif" width = 34px>
         &nbsp;&nbsp;
-        <span style="position: relative; top: -15px;">About Me</span>
+            <span style="display: inline-block; transform: translateY(-10px);">About Me</span>
         &nbsp;&nbsp;
-    <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/285126925-0b3a8bfe-ddfb-4c7f-93db-3517b0b6fe69.gif" width = 34px></b>
+        <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/285126925-0b3a8bfe-ddfb-4c7f-93db-3517b0b6fe69.gif" width = 34px>
+    </b>
 </h2>
 <img align="right" width=300 alt="coading" src="./sample.gif">
 <br/>
