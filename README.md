@@ -130,6 +130,9 @@
     <a href="https://jayeshbhandarkar.github.io/Portfolio/" target="_blank">
         <img src="https://img.shields.io/badge/Portfolio-FF480E?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
     </a>
+    <a href ="https://www.hackerrank.com/jayeshbhandarkar?hr_r=1">
+        <img src = "https://img.shields.io/badge/-Hackerrank-2EC866?style=oval-square&logo=HackerRank&logoColor=white" target="_blank" />
+    </a>
     <br><br>
     <img src="./Handshake.gif" height="38px" />
 </div>
