@@ -128,7 +128,7 @@
 <br>
 <div align="center">
     <a href="https://jayeshbhandarkar.github.io/Portfolio/" target="_blank">
-        <img src="https://img.shields.io/badge/-Portfolio-FF480E?style=for-the-badge&logo=ghost&logoColor=white" target="_blank" />
+        <img src="https://img.shields.io/badge/-Portfolio-FF480E?style=for-the-badge&logo=googlegemini&logoColor=white" target="_blank" />
     </a>
     &nbsp;&nbsp;
     <a href ="https://www.hackerrank.com/jayeshbhandarkar?hr_r=1" target="_blank">
