@@ -64,7 +64,7 @@
 </div>
 <br/>
 <p align="center">
-    <img src="https://github.com/gauravpatil97886/gauravpatil97886/blob/main/gaurav_gif/Line.gif" width="1920">
+    <img src="./line.gif" width="1920">
 </p>
 
 <h2 align="center"><b>📊⚡ GitHub Stats ⚡📊</b></h2>
@@ -94,7 +94,7 @@
 </table>
 </div>
 <p align="center">
-    <img src="https://github.com/gauravpatil97886/gauravpatil97886/blob/main/gaurav_gif/Line.gif" width="1920">
+    <img src="./line.gif" width="1920">
 </p>
 
 <h2 align="center"><b>🔝 Top Contributed Repo 🔝</b></h2>
@@ -121,7 +121,7 @@
 
 </div>
 <p align="center">
-    <img src="https://github.com/gauravpatil97886/gauravpatil97886/blob/main/gaurav_gif/Line.gif" width="1920">
+    <img src="./line.gif" width="1920">
 </p>
 
 <h2 align="center"><b>💼 For More Info, Visit .... 💼</b></h2>
