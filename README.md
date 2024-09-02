@@ -133,6 +133,7 @@
     &nbsp;&nbsp;
     <a href ="https://www.hackerrank.com/jayeshbhandarkar?hr_r=1" target="_blank">
         <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" target="_blank" />
+        <img src="https://img.shields.io/badge/%3C/%3E%20htmx-3D72D7?style=for-the-badge&logo=mysl&logoColor=white" />
     </a>
     <br><br>
     <img src="./Handshake.gif" height="38px" />
