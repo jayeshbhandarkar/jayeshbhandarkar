@@ -60,7 +60,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,html,css,figma,cpp,github,vscode,git,php" /><br/>
-    <img src="https://skillicons.dev/icons?i=javascript,java,c,mysql,androidstudio,flask,postman,django,processing,powerbi" /><br/>
+    <img src="https://skillicons.dev/icons?i=javascript,java,c,mysql,androidstudio,flask,postman,django,processing" /><br/>
 </div>
 <br/>
 <p align="center">
