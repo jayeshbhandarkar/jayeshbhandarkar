@@ -87,7 +87,7 @@
 <td>  
                     
 <!--![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)-->
-![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=react&animation=grow_out_in&layout=samuel&font=Architect&quoteType=quote-for-the-day&bgColor=green&fontColor=white)
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=radical&animation=grow_out_in&layout=samuel&font=Architect&quoteType=quote-for-the-day&bgColor=orange&fontColor=black)
         
 </td>
 <td><img style="float:right" width=280 height=230 alt="coder" src="./coder.gif"></td>
