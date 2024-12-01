@@ -126,9 +126,6 @@
     <img src="./line.gif" width="1920">
 </p>
 
-<h2 align="center"><b>💼 For More Info, Visit .... 💼</b></h2>
-<br>
-
 <p><img align="center",height="120" alt="Thanks for visiting my profile" width="100%" src="marqueeWelcome.svg" /></p>
 
 <div align="center">
