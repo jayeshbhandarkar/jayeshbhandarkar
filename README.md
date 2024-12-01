@@ -45,9 +45,7 @@
 
 <h2 align="center">
     <b>
-        <img src="./Handshake.gif" height="36px" />
-        🔗 Connect with Me 🔗
-        <img src="./Handshake.gif" height="36px" />
+        <img src="./Handshake.gif" height="36px" /> Connect with Me <img src="./Handshake.gif" height="36px" />
     </b>
 </h2>
 <br/>
