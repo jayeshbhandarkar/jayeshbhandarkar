@@ -44,7 +44,11 @@
 </p>
 
 <h2 align="center">
-    <b> Connect with Me </b>
+    <b>
+        <img src="ThumbUp.gif" width="36">
+        Connect with Me 
+        <img src="ThumbUp.gif" width="36">
+    </b>
 </h2>
 <br/>
 <div align="center">
