@@ -43,7 +43,13 @@
     <img src="./line.gif" width="1920">
 </p>
 
-<h2 align="center"><b>🔗 Connect with Me 🔗</b></h2>
+<h2 align="center">
+    <b>
+        <img src="./Handshake.gif" height="36px" />
+        🔗 Connect with Me 🔗
+        <img src="./Handshake.gif" height="36px" />
+    </b>
+</h2>
 <br/>
 <div align="center">
     <a href="https://linkedin.com/in/https://www.linkedin.com/in/jayesh-bhandarkar-66499a236" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>&nbsp;
@@ -131,7 +137,6 @@
         <img src="https://img.shields.io/badge/-Portfolio-FF480E?style=for-the-badge&logo=googlegemini&logoColor=white" target="_blank" />
     </a>
     <br><br>
-    <img src="./Handshake.gif" height="38px" />
 </div>
 
 <p><img align="center",height="120" alt="Thanks for visiting my profile" width="100%" src="marqueeWelcome.svg" /></p>
