@@ -69,7 +69,13 @@
     <img src="./line.gif" width="1920">
 </p>
 
-<h2 align="center"><b>📊⚡ GitHub Stats ⚡📊</b></h2>
+<h2 align="center">
+    <b>
+        <img src="sparkles.gif" width="36px">
+        **GitHub Stats**
+        <img src="sparkles.gif" width="36px">
+    </b>
+</h2>
 <br>
 <div align=center>
     <img width=405 src="https://github-readme-stats.vercel.app/api?username=jayeshbhandarkar&show_icons=true&theme=react&hide_border=false&rank_icon=github&locale=en" alt="jayeshbhandarkar" />&nbsp;&nbsp;
