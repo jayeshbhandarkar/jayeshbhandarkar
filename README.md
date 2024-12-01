@@ -113,7 +113,7 @@
     <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920">
 </p>
 
-<h2 align="center"><b>🏆 GitHub Trophies 🏆</b></h2>
+<h2 align="center"><img src="trophy.gif" width="40px"><b>🏆 GitHub Trophies 🏆</b></h2>
 <br>
 <div align="center">
     
