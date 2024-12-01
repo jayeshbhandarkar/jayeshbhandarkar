@@ -133,3 +133,5 @@
     <br><br>
     <img src="./Handshake.gif" height="38px" />
 </div>
+
+<p><img align="center",height="120" alt="Thanks for visiting my profile" width="100%" src="https://raw.githubusercontent.com/jayeshbhandarkar/jayeshbhandarkar/a7598cee98fcfe66abb1985c41cba4e116a92c1d/marqueeWelcome.svg" /></p>
