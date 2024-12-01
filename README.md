@@ -128,12 +128,9 @@
 
 <h2 align="center"><b>💼 For More Info, Visit .... 💼</b></h2>
 <br>
-<div align="center">
-    <a href="https://jayeshbhandarkar.github.io/Portfolio/" target="_blank">
-        <img src="https://img.shields.io/badge/-Portfolio-FF480E?style=for-the-badge&logo=googlegemini&logoColor=white" target="_blank" />
-    </a>
-    <br><br>
-    <img src="./Handshake.gif" height="36px" />
-</div>
 
 <p><img align="center",height="120" alt="Thanks for visiting my profile" width="100%" src="marqueeWelcome.svg" /></p>
+
+<div align="center">
+    <img src="./Handshake.gif" height="38px" />
+</div>
