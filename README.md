@@ -134,4 +134,4 @@
     <img src="./Handshake.gif" height="38px" />
 </div>
 
-<p><img align="center",height="120" alt="Thanks for visiting my profile" width="100%" src="marqueeWelcome.svg" /></p>
+<p><img align='left' src="ThumbUp.gif" width="24"><img align="center",height="120" alt="Thanks for visiting my profile" width="100%" src="marqueeWelcome.svg" /></p>
