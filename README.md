@@ -72,7 +72,7 @@
 <h2 align="center">
     <b>
         <img src="sparkles.gif" width="36px">
-        **GitHub Stats**
+        GitHub Stats
         <img src="sparkles.gif" width="36px">
     </b>
 </h2>
