@@ -44,7 +44,7 @@
 </p>
 
 <h2 align="center">
-    <b> Connect with Me </b>
+    <b>🔗 Connect with Me 🔗</b>
 </h2>
 <br/>
 <div align="center">
