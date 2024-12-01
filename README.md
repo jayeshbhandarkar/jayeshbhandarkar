@@ -44,9 +44,7 @@
 </p>
 
 <h2 align="center">
-    <b>
-        <img src="./Handshake.gif" height="36px" /> Connect with Me <img src="./Handshake.gif" height="36px" />
-    </b>
+    <b> Connect with Me </b>
 </h2>
 <br/>
 <div align="center">
@@ -135,6 +133,7 @@
         <img src="https://img.shields.io/badge/-Portfolio-FF480E?style=for-the-badge&logo=googlegemini&logoColor=white" target="_blank" />
     </a>
     <br><br>
+    <img src="./Handshake.gif" height="36px" />
 </div>
 
 <p><img align="center",height="120" alt="Thanks for visiting my profile" width="100%" src="marqueeWelcome.svg" /></p>
