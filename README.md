@@ -108,22 +108,6 @@
     <img src="./line.gif" width="1920">
 </p>
 
-<h2 align="center"><b>🔝 Top Contributed Repo 🔝</b></h2>
-<br>
-<div align=center style="display:flex;">
-<table>
-<tr>
-<td>  
-<img src="https://github-contributor-stats.vercel.app/api?username=jayeshbhandarkar&limit=5&theme=vision-friendly-dark&combine_all_yearly_contributions=true" width=350 height=250/>
-</td>
-<td><img style="float:right" src="https://c.tenor.com/Rft05nnPfpgAAAAM/sewa-rumah-nak-baya-bile.gif" width=300 height=220/></td>
-</tr>
-</table>
-</div>
-<p align="center">
-    <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920">
-</p>
-
 <h2 align="center"><img src="trophy.gif" width="40px"><b>GitHub Trophies</b><img src="trophy.gif" width="40px"></h2>
 <br>
 <div align="center">
