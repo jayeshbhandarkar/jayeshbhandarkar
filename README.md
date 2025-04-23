@@ -96,10 +96,10 @@
 <tr>
 <td>  
                     
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical&bg_color=0D1117)
 
 </td>
-<td><img style="float:right" width=290 height=250 alt="coder" src="./coder.gif"></td>
+<td><img style="float:right" width=280 height=230 alt="coder" src="./coder.gif"></td>
 </tr>
 </table>
 </div>
