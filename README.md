@@ -83,7 +83,7 @@
     <br/>
 <!--     <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayeshbhandarkar&theme=dark" height="188px" />-->
     <br>
-    <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jayeshbhandarkar&theme=dark&hide_border=true&bg_color=0D1117" /></p>
+    <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jayeshbhandarkar&theme=react&hide_border=true&bg_color=0D1117" /></p>
     <br>
 </div>
 
