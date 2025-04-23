@@ -94,7 +94,6 @@
 <div align=center style="display:flex;">
 <table>
 <tr>
-<td><img style="float:right" width=250 height=220 alt="coder" src="https://c.tenor.com/Rft05nnPfpgAAAAM/sewa-rumah-nak-baya-bile.gif"></td>
 <td>  
                     
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
