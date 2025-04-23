@@ -84,19 +84,18 @@
 <!--     <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayeshbhandarkar&theme=dark" height="188px" />
     <br><br> -->
 </div>
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-
-  <a href="https://github.com/jayeshbhandarkar">
-    <img alt="jayeshbhandarkar's activity graph"
-         src="https://github-readme-activity-graph.vercel.app/graph?username=jayeshbhandarkar&theme=react-dark"
-         width="450px" />
-  </a>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayeshbhandarkar&theme=dark&hide_border=true&bg_color=0D1117"
-       height="190px"
-       style="align-self: center;" />
-
-</div>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/jayeshbhandarkar">
+        <img alt="jayeshbhandarkar's activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=jayeshbhandarkar&theme=react-dark" width="450px"/>
+      </a>
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayeshbhandarkar&theme=dark&hide_border=true&bg_color=0D1117" height="190px"/>
+    </td>
+  </tr>
+</table>
 
 
 <p align="center">
