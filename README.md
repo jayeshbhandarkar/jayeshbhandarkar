@@ -80,22 +80,12 @@
 <div align=center>
     <a href="https://github.com/jayeshbhandarkar/github-readme-stats"><img alt="jayeshbhandarkar Github Stats" src="https://github-readme-stats.vercel.app/api?username=jayeshbhandarkar&show_icons=true&count_private=true&theme=react&hide_border=true&rank_icon=github&bg_color=0D1117" /></a>
     <a href="https://github.com/jayeshbhandarkar/github-readme-stats"><img alt="jayeshbhandarkar Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayeshbhandarkar&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<!--     <br><br>
+    <br><br>
     <p align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayeshbhandarkar&theme=highcontrast&hide_border=true&background=0D1117" />
-      <img src="https://github-contributor-stats.vercel.app/api?username=jayeshbhandarkar&limit=5&theme=vision-friendly-dark&combine_all_yearly_contributions=true" width=350 height=250/>
-    </p> -->
+      <img src="https://github-contributor-stats.vercel.app/api?username=jayeshbhandarkar&limit=5&theme=vision-friendly-dark&combine_all_yearly_contributions=true" />
+    </p>
 </div>
-<div align="center" style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
-
-  <!-- GitHub Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=jayeshbhandarkar&theme=highcontrast&hide_border=true&background=0D1117" alt="GitHub Streak" />
-
-  <!-- Contributor Repositories Card -->
-  <img src="https://github-contributor-stats.vercel.app/api?username=jayeshbhandarkar&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributor Repos" />
-
-</div>
-
 
 <p align="center">
     <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920">
