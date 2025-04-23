@@ -78,7 +78,6 @@
 </h2>
 <br>
 <div align=center>
-    <br>
     <a href="https://github.com/jayeshbhandarkar/github-readme-stats"><img alt="jayeshbhandarkar Github Stats" src="https://github-readme-stats.vercel.app/api?username=jayeshbhandarkar&show_icons=true&count_private=true&theme=react&hide_border=true&rank_icon=github&bg_color=0D1117" /></a>
     <a href="https://github.com/jayeshbhandarkar/github-readme-stats"><img alt="jayeshbhandarkar Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayeshbhandarkar&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
     <br/>
