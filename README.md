@@ -88,11 +88,14 @@
   <tr>
     <td>
       <a href="https://github.com/jayeshbhandarkar">
-        <img alt="jayeshbhandarkar's activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=jayeshbhandarkar&theme=react-dark" width="450px"/>
+        <img alt="jayeshbhandarkar's activity graph" 
+             src="https://github-readme-activity-graph.vercel.app/graph?username=jayeshbhandarkar&theme=react-dark" 
+             width="500px" height="250px"/>
       </a>
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayeshbhandarkar&theme=dark&hide_border=true&bg_color=0D1117" height="190px"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayeshbhandarkar&theme=dark&hide_border=true&bg_color=0D1117" 
+           width="230px" height="180px"/>
     </td>
   </tr>
 </table>
