@@ -88,7 +88,7 @@
 </div>
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayeshbhandarkar&theme=dark&hide_border=true&bg_color=0D1117" height="220px" />
-  <img src="./coder.gif" alt="coder" width="270" height="220" />
+  <img src="./coder.gif" alt="coder" width="280" height="220" />
 </div>
 
 
