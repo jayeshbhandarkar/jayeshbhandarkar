@@ -78,11 +78,14 @@
 </h2>
 <br>
 <div align=center>
-    <img width=405 src="https://github-readme-stats.vercel.app/api?username=jayeshbhandarkar&show_icons=true&theme=react&hide_border=true&rank_icon=github&locale=en" alt="jayeshbhandarkar" />&nbsp;&nbsp;
-    <img width=315 src="https://github-readme-stats.vercel.app/api/top-langs?username=jayeshbhandarkar&show_icons=true&theme=react&border_radius=10&hide_border=true&locale=en&layout=compact" alt="jayeshbhandarkar" /><br/>
+    <br>
+    <a href="https://github.com/jayeshbhandarkar/github-readme-stats"><img alt="jayeshbhandarkar Github Stats" src="https://github-readme-stats.vercel.app/api?username=jayeshbhandarkar&show_icons=true&count_private=true&theme=react&hide_border=true&rank_icon=github&bg_color=0D1117" /></a>
+    <a href="https://github.com/jayeshbhandarkar/github-readme-stats"><img alt="jayeshbhandarkar Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayeshbhandarkar&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayeshbhandarkar&theme=dark" height="195px"/>
     <br><br>
 </div>
+
 <p align="center">
     <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920">
 </p>
