@@ -87,8 +87,8 @@
     <p align="center"><img style="float:right" width=280 height=230 alt="coder" src="./coder.gif"></p> -->
 </div>
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayeshbhandarkar&theme=dark&hide_border=true&bg_color=0D1117" height="190px" />
-  <img src="./coder.gif" alt="coder" width="280" height="230" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayeshbhandarkar&theme=dark&hide_border=true&bg_color=0D1117" height="200px" />
+  <img src="./coder.gif" alt="coder" width="280" height="200" />
 </div>
 
 
