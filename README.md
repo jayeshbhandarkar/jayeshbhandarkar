@@ -77,16 +77,49 @@
     </b>
 </h2>
 <br>
-<div align=center>
+<!-- <div align=center>
     <a href="https://github.com/jayeshbhandarkar/github-readme-stats"><img alt="jayeshbhandarkar Github Stats" src="https://github-readme-stats.vercel.app/api?username=jayeshbhandarkar&show_icons=true&count_private=true&theme=react&hide_border=true&rank_icon=github&bg_color=0D1117" /></a>
     <a href="https://github.com/jayeshbhandarkar/github-readme-stats"><img alt="jayeshbhandarkar Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayeshbhandarkar&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
     <br>
     <a href="https://github.com/jayeshbhandarkar/github-readme-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jayeshbhandarkar&theme=highcontrast&hide_border=true&background=0D1117" /></a>
     <a href="https://github.com/jayeshbhandarkar/github-readme-stats"><img src="https://github-contributor-stats.vercel.app/api?username=jayeshbhandarkar&limit=5&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117&combine_all_yearly_contributions=true" width=320 height=220 /></a>
-<!--     <p align="center">
+     <p align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayeshbhandarkar&theme=highcontrast&hide_border=true&background=0D1117" />
       <img src="https://github-contributor-stats.vercel.app/api?username=jayeshbhandarkar&limit=5&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117&combine_all_yearly_contributions=true" width=320 height=220 />
-    </p> -->
+    </p> 
+</div> -->
+<div align="center">
+
+  <!-- First Row: GitHub Stats & Top Languages -->
+  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+    <a href="https://github.com/jayeshbhandarkar/github-readme-stats">
+      <img alt="jayeshbhandarkar Github Stats" 
+           src="https://github-readme-stats.vercel.app/api?username=jayeshbhandarkar&show_icons=true&count_private=true&theme=react&hide_border=true&rank_icon=github&bg_color=0D1117" 
+           width="400px" />
+    </a>
+    <a href="https://github.com/jayeshbhandarkar/github-readme-stats">
+      <img alt="jayeshbhandarkar Top Languages" 
+           src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayeshbhandarkar&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" 
+           width="400px" />
+    </a>
+  </div>
+
+  <br />
+
+  <!-- Second Row: Current Streak & Top Contributor Repos -->
+  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+    <a href="https://github.com/jayeshbhandarkar/github-readme-stats">
+      <img alt="jayeshbhandarkar Streak Stats"
+           src="https://github-readme-streak-stats.herokuapp.com/?user=jayeshbhandarkar&theme=highcontrast&hide_border=true&background=0D1117"
+           width="400px" />
+    </a>
+    <a href="https://github.com/jayeshbhandarkar/github-readme-stats">
+      <img src="https://github-contributor-stats.vercel.app/api?username=jayeshbhandarkar&limit=5&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117&combine_all_yearly_contributions=true"
+           width="400px" 
+           height="220" />
+    </a>
+  </div>
+
 </div>
 
 <p align="center">
