@@ -81,25 +81,10 @@
     <a href="https://github.com/jayeshbhandarkar/github-readme-stats"><img alt="jayeshbhandarkar Github Stats" src="https://github-readme-stats.vercel.app/api?username=jayeshbhandarkar&show_icons=true&count_private=true&theme=react&hide_border=true&rank_icon=github&bg_color=0D1117" /></a>
     <a href="https://github.com/jayeshbhandarkar/github-readme-stats"><img alt="jayeshbhandarkar Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayeshbhandarkar&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
     <br/>
-<!--     <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayeshbhandarkar&theme=dark" height="188px" />
-    <br><br> -->
+<!--     <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayeshbhandarkar&theme=dark" height="188px" />-->
+    <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jayeshbhandarkar&theme=dark&hide_border=true&bg_color=0D1117" /></p>
+    <br><br> 
 </div>
-<table>
-  <tr>
-    <td width="70%">
-      <a href="https://github.com/jayeshbhandarkar">
-        <img alt="jayeshbhandarkar's activity graph" 
-             src="https://github-readme-activity-graph.vercel.app/graph?username=jayeshbhandarkar&theme=react-dark&bg_color=0D1117&hide_border=true" 
-             width="100%" />
-      </a>
-    </td>
-    <td width="30%" height="60%" align="center" valign="top">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayeshbhandarkar&theme=dark&hide_border=true&bg_color=0D1117" 
-           width="90%" />
-    </td>
-  </tr>
-</table>
-
 
 <p align="center">
     <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920">
