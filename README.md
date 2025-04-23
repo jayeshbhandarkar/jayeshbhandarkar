@@ -86,16 +86,16 @@
 </div>
 <table>
   <tr>
-    <td>
+    <td width="70%">
       <a href="https://github.com/jayeshbhandarkar">
         <img alt="jayeshbhandarkar's activity graph" 
-             src="https://github-readme-activity-graph.vercel.app/graph?username=jayeshbhandarkar&theme=react-dark" 
-             width="500px" height="250px"/>
+             src="https://github-readme-activity-graph.vercel.app/graph?username=jayeshbhandarkar&theme=react-dark&bg_color=0D1117&hide_border=true" 
+             width="100%" />
       </a>
     </td>
-    <td>
+    <td width="30%" align="center" valign="top">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayeshbhandarkar&theme=dark&hide_border=true&bg_color=0D1117" 
-           width="230px" height="180px"/>
+           width="90%" />
     </td>
   </tr>
 </table>
