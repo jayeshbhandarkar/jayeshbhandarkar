@@ -81,16 +81,8 @@
     <a href="https://github.com/jayeshbhandarkar/github-readme-stats"><img alt="jayeshbhandarkar Github Stats" src="https://github-readme-stats.vercel.app/api?username=jayeshbhandarkar&show_icons=true&count_private=true&theme=react&hide_border=true&rank_icon=github&bg_color=0D1117" /></a>
     <a href="https://github.com/jayeshbhandarkar/github-readme-stats"><img alt="jayeshbhandarkar Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayeshbhandarkar&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
     <br/>
-<!--     <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayeshbhandarkar&theme=dark" height="188px" />-->
-<!--     <br>
     <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jayeshbhandarkar&theme=dark&hide_border=true&bg_color=0D1117" /></p>
-    <p align="center"><img style="float:right" width=280 height=230 alt="coder" src="./coder.gif"></p> -->
 </div>
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayeshbhandarkar&theme=dark&hide_border=true&bg_color=0D1117" height="220px" />
-  <img src="./coder.gif" alt="coder" width="280" height="220" />
-</div>
-
 
 <p align="center">
     <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920">
