@@ -116,7 +116,7 @@
 
 </div>
 <p align="center">
-    <img src="./line.gif" width="1920">
+    <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920">
 </p>
 
 <p><img align="center",height="120" alt="Thanks for visiting my profile" width="100%" src="marqueeWelcome.svg" /></p>
