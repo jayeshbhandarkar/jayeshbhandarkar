@@ -93,7 +93,7 @@
              width="100%" />
       </a>
     </td>
-    <td width="30%" align="center" valign="top">
+    <td width="30%" height="60%" align="center" valign="top">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayeshbhandarkar&theme=dark&hide_border=true&bg_color=0D1117" 
            width="90%" />
     </td>
