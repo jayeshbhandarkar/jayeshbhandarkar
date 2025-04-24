@@ -69,6 +69,18 @@
     <img src="./line.gif" width="1920">
 </p>
 
+<h2 align="center"><img src="trophy.gif" width="40px"><b>GitHub Trophies</b><img src="trophy.gif" width="40px"></h2>
+<br>
+<div align="center">
+    
+![](https://github-profile-trophy.vercel.app/?username=jayeshbhandarkar&theme=monokai&no-frame=false&row=2&column=4&margin-w=15&margin-h=15)
+
+</div>
+
+<p align="center">
+    <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920">
+</p>
+
 <h2 align="center">
     <b>
         <img src="sparkles.gif" width="36px">
@@ -86,7 +98,7 @@
 </div>
 
 <p align="center">
-    <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920">
+    <img src="./line.gif" width="1920">
 </p>
 
 <h2 align="center"><b>✍️ Random Dev Quote ✍️</b></h2>
@@ -103,17 +115,7 @@
 </tr>
 </table>
 </div>
-<p align="center">
-    <img src="./line.gif" width="1920">
-</p>
 
-<h2 align="center"><img src="trophy.gif" width="40px"><b>GitHub Trophies</b><img src="trophy.gif" width="40px"></h2>
-<br>
-<div align="center">
-    
-![](https://github-profile-trophy.vercel.app/?username=jayeshbhandarkar&theme=monokai&no-frame=false&row=2&column=4&margin-w=15&margin-h=15)
-
-</div>
 <p align="center">
     <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920">
 </p>
