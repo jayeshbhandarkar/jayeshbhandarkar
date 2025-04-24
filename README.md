@@ -2,9 +2,7 @@
 
 <p> 
   <img src="https://komarev.com/ghpvc/?username=jayeshbhandarkar&label=Profile%20views&color=0e75b6&style=flat" alt="jayeshbhandarkar" />
- <!-- <img src="http://img.shields.io/badge/Code%20Time-1%2C200%20hrs%2045%20mins-blue" alt="Code Time" align="right" /> -->
-  <img src="http://img.shields.io/badge/🕒%20Code%20Time-900%20hrs-red" alt="Code Time" align="right" />
-
+  <img src="http://img.shields.io/badge/🕒%20Code%20Time-1000%55hrs-blue" alt="Code Time" align="right" />
 </p>
 
 <h1 align="center">
