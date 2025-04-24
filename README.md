@@ -8,7 +8,7 @@
   </span>
   <span style="float: right;">
 <!--     <img src="http://img.shields.io/badge/Code%20Time-1%2C200%20hrs%2045%20mins-blue" alt="Code Time" /> -->
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=your_username" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jayeshbhandarkar" />
   </span>
 </p>
 
