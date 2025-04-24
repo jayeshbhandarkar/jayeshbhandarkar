@@ -2,8 +2,8 @@
 
 <p> 
 <!--   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
-  <img src="https://komarev.com/ghpvc/?username=jayeshbhandarkar&label=👁️%20Profile%20Views&color=0e75b6&style=flat" align="margin-right: 10px;" alt="jayeshbhandarkar" />
-  <img src="http://img.shields.io/badge/🕒%20Code%20Time-1000%20hrs-blue" alt="Code Time" align="margin-left: 10px;" style="flat" />
+  <img src="https://komarev.com/ghpvc/?username=jayeshbhandarkar&label=👁️%20Profile%20Views&color=0e75b6&style=flat" align="margin-left: 10px;" alt="jayeshbhandarkar" />
+  <img src="http://img.shields.io/badge/🕒%20Code%20Time-1000%20hrs-blue" alt="Code Time" align="margin-right: 10px;" style="flat" />
 </p>
 
 <h1 align="center">
