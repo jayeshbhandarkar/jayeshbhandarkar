@@ -1,12 +1,10 @@
 ![Header](./header.png)
 
-<!--<p> 
+<p> 
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://komarev.com/ghpvc/?username=jayeshbhandarkar&label=👁️%20Profile%20Views&color=0e75b6&style=flat" alt="jayeshbhandarkar" />
   <img src="http://img.shields.io/badge/🕒%20Code%20Time-1000%20hrs-blue" alt="Code Time" align="right" style="flat" />
-</p>-->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jayeshbhandarkar&label=Profile%20views&color=0e75b6&style=flat" alt="jayeshbhandarkar" style="margin-right: 5px;" />
-  <img src="http://img.shields.io/badge/🕒%20Code%20Time-1000%20hrs-blue&style=flat" alt="Code Time" style="margin-left: 5px;" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <h1 align="center">
