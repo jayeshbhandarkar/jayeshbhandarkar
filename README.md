@@ -1,6 +1,7 @@
 ![Header](./header.png)
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=jayeshbhandarkar&label=Profile%20views&color=0e75b6&style=flat" alt="jayeshbhandarkar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jayeshbhandarkar&label=Profile%20views&color=0e75b6&style=flat" alt="jayeshbhandarkar" /> </p>
+<p align="right"><img src="http://img.shields.io/badge/Code%20Time-1%2C200%20hrs%2045%20mins-blue" alt="Code Time" /> </p>
 
 <h1 align="center">
     <img src='rocket.gif' width="70px">
