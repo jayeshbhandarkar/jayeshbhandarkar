@@ -7,7 +7,8 @@
     <img src="https://komarev.com/ghpvc/?username=jayeshbhandarkar&label=Profile%20views&color=0e75b6&style=flat" alt="jayeshbhandarkar" />
   </span>
   <span style="float: right;">
-    <img src="http://img.shields.io/badge/Code%20Time-1%2C200%20hrs%2045%20mins-blue" alt="Code Time" />
+<!--     <img src="http://img.shields.io/badge/Code%20Time-1%2C200%20hrs%2045%20mins-blue" alt="Code Time" /> -->
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=your_username" />
   </span>
 </p>
 
