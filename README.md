@@ -55,7 +55,7 @@
     <a href="mailto:bhandarkarjayesh721@gmail.com" target="blank"><img src="https://skillicons.dev/icons?i=gmail" /></a>&nbsp;
     <a href="https://twitter.com/https://twitter.com/its_jayesh_777?t=ddjcapw0rcfmxujawsbhcg&s=08" target="blank"><img src="https://skillicons.dev/icons?i=twitter" /></a>&nbsp;
     <a href="https://github.com/jayeshbhandarkar" target="blank"><img src="https://skillicons.dev/icons?i=github" /></a>&nbsp;
-    <a href="https://instagram.com/_its_jayesh_92_" target="blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+    <a href="https://instagram.com/_its_jayesh_77_" target="blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 </div>
 <p align="center">
     <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920">
