@@ -28,7 +28,7 @@
 
 <div align="left">
     
-- 👨‍🎓 **I’m a recent BTech Graduate in Information Technology** <br>
+- 👨‍🎓 **I’m a recent B.Tech Graduate in Information Technology** <br>
     
 - 🌱 **I’m currently learning : Data Science, Machine Learning** <br>
 
