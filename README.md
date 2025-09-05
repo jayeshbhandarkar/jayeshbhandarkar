@@ -11,7 +11,7 @@
     <img src='rocket.gif' width="70px">
 </h1>
 
-<h3 align="center"><i>A Passionate IT Engineer, thrive on continuous learning and have an insatiable appetite for acquiring new knowledge and skills</i></h3>
+<h3 align="center"><i>A Passionate Software Engineer, thrive on continuous learning and have an insatiable appetite for acquiring new knowledge and skills</i></h3>
 <p align="center">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1950">
 </p>
