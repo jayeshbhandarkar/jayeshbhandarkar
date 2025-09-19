@@ -123,7 +123,7 @@
     <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920">
 </p>
 
-<p><img align="center",height="120" alt="Thanks for visiting my profile" width="100%" src="marqueeWelcome.svg" /></p>
+<p><img align="center",height="120" alt="Thanks for visiting my profile" width="100%" src="./assets/marqueeWelcome.svg" /></p>
 
 <div align="center">
     <img src="./assets/Handshake.gif" height="38px" />
