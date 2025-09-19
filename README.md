@@ -43,7 +43,7 @@
 </div>
 <br>
 <p align="center">
-    <img src="./line.gif" width="1920">
+    <img src="./assets/line.gif" width="1920">
 </p>
 
 <h2 align="center">
@@ -69,7 +69,7 @@
 </div>
 <br/>
 <p align="center">
-    <img src="./line.gif" width="1920">
+    <img src="./assets/line.gif" width="1920">
 </p>
 
 <h2 align="center"><img src="trophy.gif" width="40px"><b>GitHub Trophies</b><img src="trophy.gif" width="40px"></h2>
@@ -101,7 +101,7 @@
 </div>
 
 <p align="center">
-    <img src="./line.gif" width="1920">
+    <img src="./assets/line.gif" width="1920">
 </p>
 
 <h2 align="center"><b>✍️ Random Dev Quote ✍️</b></h2>
