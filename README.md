@@ -6,9 +6,9 @@
 </p>
 
 <h1 align="center">
-    <img src='rocket.gif' width="70px">
+    <img src='./assets/rocket.gif' width="70px">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+!+👋;+I'm+Jayesh+Bhandarkar+!!;" />
-    <img src='rocket.gif' width="70px">
+    <img src='./assets/rocket.gif' width="70px">
 </h1>
 
 <h3 align="center"><i>A Passionate Software Engineer, thrive on continuous learning and have an insatiable appetite for acquiring new knowledge and skills</i></h3>
@@ -126,5 +126,5 @@
 <p><img align="center",height="120" alt="Thanks for visiting my profile" width="100%" src="marqueeWelcome.svg" /></p>
 
 <div align="center">
-    <img src="./Handshake.gif" height="38px" />
+    <img src="./assets/Handshake.gif" height="38px" />
 </div>
