@@ -86,9 +86,9 @@
 
 <h2 align="center">
     <b>
-        <img src="sparkles.gif" width="36px">
+        <img src="./assets/sparkles.gif" width="36px">
         GitHub Stats
-        <img src="sparkles.gif" width="36px">
+        <img src="./assets/sparkles.gif" width="36px">
     </b>
 </h2>
 <br>
