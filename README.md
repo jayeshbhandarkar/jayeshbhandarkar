@@ -23,7 +23,7 @@
         <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/285126925-0b3a8bfe-ddfb-4c7f-93db-3517b0b6fe69.gif" width = 32px>
     </b>
 </h2>
-<img align="right" width=300 alt="coading" src="./sample.gif">
+<img align="right" width=300 alt="coading" src="./assets/sample.gif">
 <br/>
 
 <div align="left">
@@ -72,7 +72,7 @@
     <img src="./assets/line.gif" width="1920">
 </p>
 
-<h2 align="center"><img src="trophy.gif" width="40px"><b>GitHub Trophies</b><img src="trophy.gif" width="40px"></h2>
+<h2 align="center"><img src="./assets/trophy.gif" width="40px"><b>GitHub Trophies</b><img src="./assets/trophy.gif" width="40px"></h2>
 <br>
 <div align="center">
     
