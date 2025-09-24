@@ -74,7 +74,7 @@
 
 <h2 align="center"><img src="./assets/trophy.gif" width="40px"><b>GitHub Trophies</b><img src="./assets/trophy.gif" width="40px"></h2>
 <br>
-<div align="center">
+<div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
 <img height="150" width="130" src="https://user-images.githubusercontent.com/85965606/194883377-48faf476-56b7-4550-8574-844f2ca8baca.png">
       
 ![](https://github-profile-trophy.vercel.app/?username=jayeshbhandarkar&theme=monokai&no-frame=false&row=2&column=4&margin-w=14&margin-h=14)
