@@ -76,11 +76,11 @@
 <br/>
 
 <p align="center">
-  <img height="150" width="130" src="https://user-images.githubusercontent.com/85965606/194883377-48faf476-56b7-4550-8574-844f2ca8baca.png" alt="Left Image">
+  <sup><sup><sup><sup><sup><img height="150" width="130" src="https://user-images.githubusercontent.com/85965606/194883377-48faf476-56b7-4550-8574-844f2ca8baca.png" alt="Left Image"></sup></sup></sup></sup></sup>
   &nbsp;&nbsp;
   <img src="https://github-profile-trophy.vercel.app/?username=jayeshbhandarkar&theme=monokai&no-frame=false&row=2&column=4&margin-w=14&margin-h=14" alt="GitHub Trophies">
   &nbsp;&nbsp;
-  <img height="150" width="130" src="https://user-images.githubusercontent.com/85965606/194883387-b4d3b9f8-d432-4b77-8aab-77c6ed120e31.png" alt="Right Image">
+  <sup><sup><sup><sup><sup><img height="150" width="130" src="https://user-images.githubusercontent.com/85965606/194883387-b4d3b9f8-d432-4b77-8aab-77c6ed120e31.png" alt="Right Image"></sup></sup></sup></sup></sup>
 </p>
 
 <p align="center">
