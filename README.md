@@ -76,7 +76,7 @@
 <br/>
 
 <p align="center">
-  <table style="border-collapse: collapse; border: none;">
+  <table>
     <tr>
       <td>
         <img height="150" width="130" src="https://user-images.githubusercontent.com/85965606/194883377-48faf476-56b7-4550-8574-844f2ca8baca.png">
