@@ -80,7 +80,7 @@
   &nbsp;&nbsp;
   <img src="https://github-profile-trophy.vercel.app/?username=jayeshbhandarkar&theme=monokai&no-frame=false&row=2&column=4&margin-w=14&margin-h=14" alt="GitHub Trophies">
   &nbsp;&nbsp;
-  <img height="150" width="130" src="https://user-images.githubusercontent.com/85965606/194883387-b4d3b9f8-d432-4b77-8aab-77c6ed120e31.png" alt="Right Image" style="vertical-align: middle;">
+  <sup><img height="150" width="130" src="https://user-images.githubusercontent.com/85965606/194883387-b4d3b9f8-d432-4b77-8aab-77c6ed120e31.png" alt="Right Image" style="vertical-align: middle;"></sup>
 </p>
 
 <p align="center">
