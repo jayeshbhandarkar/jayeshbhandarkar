@@ -74,14 +74,16 @@
 
 <h2 align="center"><img src="./assets/trophy.gif" width="40px"><b>GitHub Trophies</b><img src="./assets/trophy.gif" width="40px"></h2>
 <br>
+
+<div>
 <p align="center">
   <img height="150" width="130" src="https://user-images.githubusercontent.com/85965606/194883377-48faf476-56b7-4550-8574-844f2ca8baca.png">
-  
+
   <img src="https://github-profile-trophy.vercel.app/?username=jayeshbhandarkar&theme=monokai&no-frame=false&row=2&column=4&margin-w=14&margin-h=14" alt="GitHub Trophies">
 
   <img height="150" width="130" src="https://user-images.githubusercontent.com/85965606/194883387-b4d3b9f8-d432-4b77-8aab-77c6ed120e31.png">
 </p>
-
+</div>
 
 <p align="center">
     <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920">
