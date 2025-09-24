@@ -73,7 +73,6 @@
 </p>
 
 <h2 align="center"><img src="./assets/trophy.gif" width="40px"><b>GitHub Trophies</b><img src="./assets/trophy.gif" width="40px"></h2>
-<br/>
 
 <div align=center style="display:flex;">
   <table>
