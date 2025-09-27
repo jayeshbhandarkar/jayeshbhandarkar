@@ -50,11 +50,11 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,html,css,figma,cpp,github,vscode,git,php" /><br/>
-    <img src="https://skillicons.dev/icons?i=javascript,java,c,mysql,androidstudio,flask,postman,django,processing" /><br/>
+    <img src="https://skillicons.dev/icons?i=javascript,java,c,mysql,androidstudio,flask,postman,django,react,processing" /><br/>
 </div>
 <br/>
 <p align="center">
-    <img src="./assets/line.gif" width="1920">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1950">
 </p>
 
 <h2 align="center"><img src="./assets/trophy.gif" width="40px"><b>GitHub Trophies</b><img src="./assets/trophy.gif" width="40px"></h2><br>
@@ -76,7 +76,7 @@
 </div>
 
 <p align="center">
-    <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920">
+    <img src="./assets/line.gif" width="1920">
 </p>
 
 <h2 align="center">
@@ -96,7 +96,7 @@
 </div>
 
 <p align="center">
-    <img src="./assets/line.gif" width="1920">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1950">
 </p>
 
 <h2 align="center"><b>✍️ Random Dev Quote ✍️</b></h2>
@@ -115,7 +115,7 @@
 </div>
 
 <p align="center">
-    <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920">
+    <img src="./assets/line.gif" width="1920">
 </p>
 
 <p><img align="center",height="120" alt="Thanks for visiting my profile" width="100%" src="./assets/marqueeWelcome.svg" /></p>
