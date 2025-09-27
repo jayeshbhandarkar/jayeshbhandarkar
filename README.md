@@ -46,21 +46,6 @@
     <img src="./assets/line.gif" width="1920">
 </p>
 
-<h2 align="center">
-    <b>🔗 Connect with Me 🔗</b>
-</h2>
-<br/>
-<div align="center">
-    <a href="https://www.linkedin.com/in/jayesh-bhandarkar" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>&nbsp;
-    <a href="mailto:bhandarkarjayesh721@gmail.com" target="blank"><img src="https://skillicons.dev/icons?i=gmail" /></a>&nbsp;
-    <a href="https://twitter.com/its_jayesh_777" target="blank"><img src="https://skillicons.dev/icons?i=twitter" /></a>&nbsp;
-    <a href="https://github.com/jayeshbhandarkar" target="blank"><img src="https://skillicons.dev/icons?i=github" /></a>&nbsp;
-    <a href="https://instagram.com/_its_jayesh_77_" target="blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-</div>
-<p align="center">
-    <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920">
-</p>
-
 <h2 align="center"><b>⚒️ Languages - Frameworks - Tools ⚒️</b></h2>
 <br/>
 <div align="center">
