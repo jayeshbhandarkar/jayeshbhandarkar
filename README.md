@@ -4,9 +4,8 @@
 </p>-->
 
 <p> 
-  <img src="https://komarev.com/ghpvc/?username=jayeshbhandarkar&label=Profile%20Views&color=0e75b6&style=social" alt="Profile Views" />
-  <img src="http://img.shields.io/badge/Code%20Time-2500%20hrs-blue" alt="Code Time" align="right" style="flat" />
-  <img src="https://img.shields.io/github/followers/jayeshbhandarkar?label=Profile%20Views&style=social" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=jayeshbhandarkar&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="http://img.shields.io/badge/Code%20Time-2500%20hrs-blue" alt="Code Time" align="right" style="social" />
 </p>
 
 <h1 align="center">
