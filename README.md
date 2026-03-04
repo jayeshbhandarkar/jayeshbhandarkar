@@ -54,7 +54,7 @@
 </div>
 <br/>
 <p align="center">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1950">
+    <img src="./assets/line.gif" width="1920">
 </p>
 
 <h2 align="center"><img src="./assets/trophy.gif" width="40px"><b>GitHub Trophies</b><img src="./assets/trophy.gif" width="40px"></h2><br>
