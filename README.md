@@ -46,7 +46,7 @@
     <img src="./assets/line.gif" width="1920">
 </p>
 
-<h2 align="center"><b>⚒️ Languages - Frameworks - Tools ⚒️</b></h2>
+<h2 align="center"><img src="./assets/tools.gif" width="40px"><b>Languages - Frameworks - Tools</b><img src="./assets/tools.gif" width="40px"></h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,html,css,figma,cpp,github,vscode,git,php" /><br/>
