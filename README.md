@@ -99,7 +99,7 @@
     <img src="./assets/line.gif" width="1920">
 </p>
 
-<h2 align="center"><b>✍️ Random Dev Quote ✍️</b></h2>
+<h2 align="center"><img src="./assets/bonfire.gif" width="40px"><b> Random Dev Quote </b><img src="./assets/bonfire.gif" width="40px"></h2>
 <br>
 <div align=center style="display:flex;">
 <table>
