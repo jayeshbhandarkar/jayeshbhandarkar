@@ -89,10 +89,10 @@
 <br>
 <p align=center>
     <img alt="jayeshbhandarkar Github Stats" src="https://github-readme-stats-fast.vercel.app/api?username=jayeshbhandarkar&show_icons=true&count_private=true&theme=react&hide_border=true&rank_icon=github&bg_color=0D1117" />
-    <img alt="jayeshbhandarkar Top Languages" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jayeshbhandarkar&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <!--<img alt="jayeshbhandarkar Top Languages" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jayeshbhandarkar&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-->
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayeshbhandarkar&theme=highcontrast&hide_border=true&background=0D1117" />
-    <img src="https://github-contributor-stats.vercel.app/api?username=jayeshbhandarkar&limit=5&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117&combine_all_yearly_contributions=true" width=320 height=220 />
+    <!--<img src="https://github-contributor-stats.vercel.app/api?username=jayeshbhandarkar&limit=5&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117&combine_all_yearly_contributions=true" width=320 height=220 />-->
 </p>
 
 <p align="center">
